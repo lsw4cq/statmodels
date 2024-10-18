@@ -1,0 +1,106 @@
+station,distance,name,location.address,rating,popularity,categories
+East End Library,773,Union Market,2306 Jefferson Ave,9.4,0.9849659425465568,bar
+East End Library,912,Liberty Public House,418 N 25th St,8.7,0.9759942860129261,bar
+East End Library,604,Kahlo’s Taqueria and Bar,718 N 23rd St,7.8,0.9716391129383481,bar
+East End Library,917,Leisure Business Advisors,2010 Princess Anne Ave,,0.28397470515478285,office
+East End Library,999,Armstrong Renaissance,1665 N 31st St,,0.32400745605630366,office
+Sydney Park,295,Beauvine Burger Concept,1501 W Main St,8.5,0.9884675016985175,bar
+Sydney Park,170,Postbellum,1323 W Main St,7.6,0.9516227374875877,bar
+Sydney Park,828,Cobra Cabana,901 W Marshall St,7.9,0.995366095848649,bar
+Sydney Park,974,The Sidewalk Cafe,2101 W Main St,7.9,0.9933278748497465,bar
+Sydney Park,814,District 5,1911 W Main St,7.7,0.9792345347804122,bar
+Sydney Park,894,Byrd House,301 W Franklin St,7.3,0.9684685469400554,bar
+Sydney Park,854,The Camel,1621 W Broad St,7.2,0.9812727557793147,bar
+Sydney Park,490,Home Team Grill,1630 W Main St,6.5,0.9627719805585074,bar
+Sydney Park,99,CapTech,1118 W Main St,,0.9226347055031967,office
+Sydney Park,115,Sportable Richmond Adaptive Sports & Recreation,1327 Floyd Ave,,0.22467466857132903,bar
+Broad & Harrison,968,T J's Restaurant & Lounge,101 W Franklin St,8.4,0.949288364719614,bar
+Broad & Harrison,945,Bar Solita,123 W Broad St,7.3,0.9363970524188632,bar
+Broad & Harrison,250,Chuggers Old City Pub,900 W Franklin St,,0.5504590352420605,bar
+Broad & Harrison,308,Maintenance Support Services,304 Gilmer St,,0.23883769140985664,office
+Broad & Lombardy,960,Main Line Brewery,1603 Ownby Ln,7.0,0.9832587147013222,bar
+Broad & Lombardy,668,The Mansion Room at Fielden's,2033 W Broad St,6.4,0.8993780812849502,bar
+Broad & Lombardy,74,Tap 20 Tavern,711 N Lombardy St,,0.86831698691706,bar
+Broad & Lombardy,89,VCU Center For Psychological Services and Development,612 N Lombardy St,,0.9192899325819208,office
+Broad & Lombardy,140,Science Pub RVA at The Camel,Broad Street,,0.45361740675574447,bar
+Broad Rock Library,424,The Pitts,2220 Broad Rock Blvd,,0.025817465986098288,bar
+Abner Clay Park,804,Lillie Pearl,416 E Grace St,8.3,0.9658902844799052,bar
+Abner Clay Park,906,Penny Lane Pub,421 E Franklin St,8.4,0.991063184850966,bar
+Abner Clay Park,807,Wong Gonzalez,412 E Grace St,8.1,0.9605072905597268,bar
+Abner Clay Park,451,Barcode,6 E Grace St,7.3,0.9722488371687891,bar
+Abner Clay Park,705,Godfrey's,308 E Grace St,7.2,0.9714997473999617,bar
+Abner Clay Park,936,Maya Mexican Grill And Tequila Lounge,525 E Grace St,7.3,0.9728934027838266,bar
+Abner Clay Park,801,Cary 100,100 E Cary St,7.1,0.038099054056408205,bar
+Abner Clay Park,432,The Speakeasy Grill,526 N 2nd St,6.4,0.8961900945943592,bar
+Center Stage,255,Capital Ale House,623 E Main St,7.5,0.9942860129261537,bar
+Center Stage,267,Chicano's Cocina Bar & Grill,523 E Main St,7.4,0.9804714039335923,bar
+Center Stage,836,Sine Irish Pub & Restaurant,1327 E Cary St,7.9,0.994860895771998,bar
+Center Stage,250,Kabana Rooftop,700 E Main St,6.7,0.9698099402470254,bar
+Main Street Station,192,LuLu's,21 N 17th St,8.7,0.9852446736233298,bar
+Main Street Station,552,Station 2,2016 E Main St,8.5,0.9944776405414352,bar
+Main Street Station,634,Grandstaff & Stein,2113 E Main St,8.4,0.9543752068707211,bar
+Main Street Station,507,Richbrau Brewing,5 S 20th St,8.1,0.9768653206278417,bar
+Main Street Station,880,Patrick Henry's Pub & Grille,2300 E Broad St,8.6,0.9837116527010783,bar
+Main Street Station,358,Fallout,117 N 18th St,7.2,0.9782589760117067,bar
+Main Street Station,234,Canal Club,1545 E Cary St,6.6,0.9699493057854119,bar
+Main Street Station,250,Southern Railway Taphouse,111 Virginia St,6.4,0.988659129313799,bar
+Carter Jones Park,294,Teens Against Drug Abuse,2600 Porter St,,0.642858387192307,office
+Carter Jones Park,504,Warehouse 29,2702 Decatur St,,0.6785708064038465,office
+Carter Jones Park,758,Fishel Stephen,202 W 34th St,,0.10502935386652265,office
+Carter Jones Park,927,Thirsty's Bar & Grill,3516 Forest Hill Ave,,0.9697750988624287,bar
+Carter Jones Park,945,The Bluebird,3314 Midlothian Tpke,,0.8964862463634304,bar
+Monroe Park,471,Chili's Grill & Bar,355 W Cary St,6.2,0.9673710433252617,bar
+Monroe Park,102,VCU Rhoads and Brandt Housing Office,710 W Franklin St,,0.03273348082852812,office
+Battery Park,694,Tabol Brewing,704 Dawn St,6.9,0.9851227287772416,bar
+Battery Park,378,Boys II Men Administrative Office,2532 N Lombardy St,,0.21521523265334563,bar
+Battery Park,571,Fuzzy Cactus,221 W Brookland Park Blvd,,0.9921084263888647,bar
+Battery Park,617,RVA Createspace,607 Wickham St,,0.8981063707471735,office
+Battery Park,622,Boogaloos,210 W Brookland Park Blvd,,0.016427712837308154,bar
+Battery Park,670,Ninja Kombucha,126 W Brookland Park Blvd,,0.9111893106632057,bar
+Battery Park,704,Good Tymes,2030 1/2 Chamberlayne Ave,,0.6917582704736687,bar
+Battery Park,711,Union Bistro & Jazz,2400 Northumberland Ave,,0.9102311725867986,bar
+Battery Park,740,Outer City Lounge,2030 Chamberlayne Ave,,0.9010678884378865,bar
+Battery Park,765,Pfizer Consumer Healthcare,1211 Sherwood Ave,,0.9898959984669791,office
+Blackwell,442,Hull Street Grocery Store,1514 Hull St,,0.1673954322944794,office
+Blackwell,470,Pig & Brew,1313 Hull St,,0.9813598592408063,bar
+Blackwell,476,Med Demolition & Construction,1108 Decatur St,,0.6502621814190896,office
+Blackwell,485,Vibes Cyber Cafe & Banquet Hll,1212 Hull St,,0.614149086284689,bar
+Blackwell,507,The Butterbean Market & Cafe,1204 Hull St,,0.9451422399526157,bar
+Blackwell,675,Lite-Tek / Omnitech Warehouse,1015 E 12th St,,0.6622301970280299,office
+Blackwell,378,Credential America,1506 Hull St,,,office
+Blackwell,619,Millennium Training,1500 Porter St,,,office
+Blackwell,957,Old Manchester Rooftop Deck,815 Porter St,,,bar
+Blackwell,998,Esf Trailer Systems,202 Brinser St,,,office
+Fairmont,975,Food Buying Club,1021 Oliver Hill Way,,0.08666794418410187,bar
+Science Museum,342,The Broadberry,2729 W Broad St,8.3,0.979844259010853,bar
+Science Museum,913,Hardywood Park Craft Brewery,2408 Ownby Ln,9.1,0.99318850931136,bar
+Science Museum,941,Commercial Taphouse & Grill,111 N Robinson St,8.8,0.9317805689598104,bar
+Science Museum,672,Fat Dragon,1200 N Arthur Ashe Blvd,8.2,0.9815863282406843,bar
+Science Museum,240,Gus' Bar & Grill,2701 W Broad St,7.5,0.978555127780778,bar
+Science Museum,465,River City Roll,939 Myers St,7.8,0.9939201783878892,bar
+Science Museum,694,Sheppard Street Tavern,2922 Park Ave,7.9,0.9614828493284323,bar
+Science Museum,958,The Circuit - Arcade Bar,3121 W Leigh St,8.2,0.9316237827291256,bar
+Science Museum,796,McCormack's Whisky Grill,204 N Robinson St,7.8,0.9382784871870808,bar
+Science Museum,554,The Hof,2818 W Broad St,7.3,0.9737818580910406,bar
+Browns Island,921,Legend Brewing Company,321 W 7th St,8.0,0.9811682316255248,bar
+Jefferson Ave,443,Dutch & Co.,400 N 27th St,9.2,0.4976220755012804,bar
+Jefferson Ave,595,23rd & Main,2300 E Main St,8.9,0.9293765134226434,bar
+Chimborazo Park,453,Alewife,3120 E Marshall St,8.3,0.9498284061808616,bar
+Chimborazo Park,854,Poe's Pub,2706 E Main St,7.2,0.9709248645541174,bar
+Chimborazo Park,290,Al Dobbins Consulting,3611 E Marshall St,,0.40982178631778826,office
+Chimborazo Park,502,Stone Brewing Richmond,4300 Williamsburg Ave,,0.9601588767137607,bar
+Chimborazo Park,908,Arts & Letters Creative Co.,2700 E Cary St,,0.9668832639409091,office
+Chimborazo Park,936,CSX Fulton Yard,4900 Old Osborne Tpke,,0.18394039735099338,office
+Chimborazo Park,959,Island Shrimp - Rocketts Landing,11 Orleans St,,0.9806456108565754,bar
+Chimborazo Park,983,Tax Services,2603 E Main St,,0.0778008118042611,office
+Chimborazo Park,1009,Pure Culture Consulting,4841 Old Main St,,0.07400662251655629,office
+Pleasants Park-Oregon Hill,371,Manhatten Wine Co.,607 S Pine St,,0.5946379109105796,bar
+Pleasants Park-Oregon Hill,399,Leone,2ND Ave,,0.7728864345069073,bar
+Pleasants Park-Oregon Hill,553,West Cary Group,5 W Cary St,,0.8989948260543874,office
+North Avenue Library,599,Sandy's Restaurant & Lounge,2424 North Ave,,0.6939532777032559,bar
+North Avenue Library,952,Earls Shack,2115 Greenwood Ave,,0.9019737644373987,bar
+Petronius Jones Park-Randolph,406,Jardin,1520 W Main St,,0.9751755134749055,bar
+Petronius Jones Park-Randolph,419,Epsilon Systems Consultants,1520 W Main St,,0.3518979844259011,office
+Petronius Jones Park-Randolph,420,Specialty Beverage,1614 W Main St,,0.16335383168127102,bar
+Petronius Jones Park-Randolph,422,Tahzoo,1435 W Main St,,0.8448164730066373,office
+Petronius Jones Park-Randolph,447,Eaf Custom Communication,1520 W Main St,,0.3041478668362281,office
