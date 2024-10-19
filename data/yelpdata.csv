@@ -2,8 +2,8 @@ station,distance,name,location.address,rating
 East End Library,645.388528556957,The Roosevelt,623 N 25th St,4.2
 East End Library,579.9604144034737,Kahlo’s Taqueria and Bar,718 N 23rd St,4.1
 East End Library,772.7246230177311,Union Market,2306 Jefferson Ave,4.3
-East End Library,644.4629898324552,The Emerald Lounge,2416 Jefferson Ave,4.2
 East End Library,1098.16001603501,Patrick Henry's Pub & Grille,2300 E Broad St,3.9
+East End Library,644.4629898324552,The Emerald Lounge,2416 Jefferson Ave,4.2
 East End Library,508.6620536638049,Pink Room,803 N 23rd St,3.7
 Sydney Park,496.41688193038163,Heritage,1627 W Main St,4.5
 Sydney Park,126.77565729442588,Get Tight Lounge,1104 W Main St,4.3
@@ -11,9 +11,9 @@ Sydney Park,376.18586747429254,Main St. Dragon,1537 W Main St,4.4
 Sydney Park,813.5944573178863,Cobra Cabana,901 W Marshall St,4.3
 Sydney Park,675.1138185993167,My Noodle & Bar,1600 Monument Ave,4.1
 Sydney Park,517.2642709146129,The Village Cafe,1001 W Grace St,3.8
-Sydney Park,518.6840552079454,Ipanema Café,917 W Grace St,4.1
 Sydney Park,986.3688405834528,The Sidewalk Café,2101 W Main St,4.1
 Sydney Park,481.42331602357956,Home Team Grill,1630 W Main St,3.4
+Sydney Park,518.6840552079454,Ipanema Café,917 W Grace St,4.1
 Sydney Park,366.9553866675819,Celladora Wines,111B N Lombardy St,4.7
 Sydney Park,358.4235704932242,Jardin,1520 W Main St,4.1
 Sydney Park,421.68932401447853,Trouvaille,203 N Lombardy St,5.0
@@ -24,51 +24,53 @@ Sydney Park,926.6495650239244,The Riviere,506 W Broad St,3.3
 Sydney Park,730.2203413456604,Aladdin Express,801 W Broad St,3.1
 Sydney Park,130.8499025954157,Piccola New Style,1102 W Main St,3.3
 Sydney Park,798.0046358856468,Chili's,355 W Cary St,2.5
-Sydney Park,922.5905718061256,The Honey Drizzle At The Riviere,506 W Broad St,3.8
+Sydney Park,818.449472347366,Sky Box,1911 W Main St,0.0
 Broad & Harrison,1128.9815729952654,The Savory Grain,2043 W Broad St,4.1
-Broad & Harrison,910.5014344672902,Bar Solita,123 W Broad St,3.6
 Broad & Harrison,840.885848305364,GWARbar,217 W Clay St,4.2
 Broad & Harrison,919.3494220133998,Penny's Wine Shop,405 Brook Rd,4.8
+Broad & Harrison,910.5014344672902,Bar Solita,123 W Broad St,3.6
+Broad & Harrison,778.0387193477244,Common House,303 W Broad St,4.6
 Broad & Harrison,1046.6797884679459,SWITCH Pop-up Bar,13 West Broad St,4.0
-Broad & Harrison,886.7876069684165,Q Rooftop Bar,201 W Broad St,4.1
 Broad & Harrison,1122.3578020551633,Barcode,6 E Grace St,3.5
+Broad & Harrison,886.7876069684165,Q Rooftop Bar,201 W Broad St,4.1
+Broad & Lombardy,279.27714827463683,804RVA,1657 W Broad St,5.0
 Broad & Lombardy,1195.4127997458365,Sweet Ps,304 W Broad St,4.0
-Broad & Lombardy,504.7326570808433,Brun,203 N Lombardy St,2.6
-Broad & Lombardy,1032.126588265342,Sky Box,1911 W Main St,0.0
+Broad & Lombardy,1009.7795702945326,The Honey Drizzle At The Riviere,506 W Broad St,3.8
 Broad Rock Library,1367.3509041185425,Sky Restaurant & Lounge,5250 Hull St Rd,3.7
 Broad Rock Library,972.7556232713737,El Paraiso,3025 Broad Rock Blvd,0.0
 Abner Clay Park,389.14588102906555,Mama J's Kitchen,415 N 1st St,4.3
 Abner Clay Park,808.6549136289516,Lillie Pearl,418 E Grace St,4.5
 Abner Clay Park,690.2269474259062,ML Steak Modern Chophouse,328 E Broad St,4.1
+Abner Clay Park,736.555337113386,Rappahannock,320 E Grace St,3.8
 Abner Clay Park,801.1844741140541,Wong Gonzalez,412 E Grace St,4.1
 Abner Clay Park,881.8896405405034,Secret Sandwich Society,501 E Grace St,4.2
 Abner Clay Park,819.9587322654722,Julep's New Southern Cuisine,420 E Grace St,4.2
 Abner Clay Park,880.3814487467712,La Grotta Ristorante,529 E Broad St,4.0
-Abner Clay Park,736.555337113386,Rappahannock,320 E Grace St,3.8
 Abner Clay Park,507.1667214053526,Kogi,325 N 2nd St,3.9
 Abner Clay Park,278.5620978939131,And Dim Sum,305 Brook Rd,3.1
 Abner Clay Park,299.07339737461893,The Lobby Bar,201 W Broad St,3.7
-Abner Clay Park,704.2163298996513,Godfrey’s,308 E Grace St,3.9
-Center Stage,210.18959026033625,Penny Lane Pub,421 E Franklin St,3.8
-Center Stage,618.3976879006658,Native Plate,1203 E Main St,4.4
+Abner Clay Park,912.5265175584442,Penny Lane Pub,421 E Franklin St,3.8
 Center Stage,271.72732975997934,Chicano's Cocina Bar & Grill,523 E Main St,4.2
+Center Stage,618.3976879006658,Native Plate,1203 E Main St,4.4
 Center Stage,274.4816732629551,Capital Ale House,623 E Main St,3.6
+Center Stage,283.29120060234453,Godfrey’s,308 E Grace St,3.9
 Center Stage,163.8050334270627,Vagabond,700 E Broad St,3.4
 Center Stage,154.58498921994087,Gather & Hem,501 E Broad St,4.3
 Center Stage,927.656849807539,The Hard Shell,1411 E Cary St,3.8
+Center Stage,1096.521151740322,Havana 59,16 N 17th St,3.6
 Center Stage,1160.987496811821,Lulu's,21 N 17th St,3.8
 Center Stage,225.99396636382548,Kabana Rooftop,700 E Main St,2.8
 Main Street Station,246.65204153749585,Southern Railway Taphouse,100 S 14th St,3.4
-Main Street Station,156.81638363763864,Havana 59,16 N 17th St,3.6
 Main Street Station,637.5527632914286,Grandstaff & Stein,2113 E Main St,4.1
-Main Street Station,369.5511652599969,Sam Miller's,1210 E Cary St,3.1
 Main Street Station,153.3500997571951,Rosie Connolly's,1548 E Main St,4.3
+Main Street Station,369.5511652599969,Sam Miller's,1210 E Cary St,3.1
 Main Street Station,556.0872364346584,Station 2,2016 E Main St,3.8
 Main Street Station,281.8721019297316,Bellos Lounge & Restaurant,1712 E Franklin St,3.6
-Main Street Station,613.0002648123401,Pie314 Rva,423 N 18th St,3.9
-Main Street Station,1229.5049069550676,Poe's Pub,2706 E Main St,4.0
 Main Street Station,239.96322540343087,Sine Irish Pub & Restaurant,1327 E Cary St,3.2
+Main Street Station,1229.5049069550676,Poe's Pub,2706 E Main St,4.0
+Main Street Station,613.0002648123401,Pie314 Rva,423 N 18th St,3.9
 Carter Jones Park,927.5032702589218,Thirsty's RVA,3516 Forest Hill Ave,3.6
+Carter Jones Park,544.1923980352369,The Yellow House,2601 Semmes Ave,5.0
 Carter Jones Park,759.2783438084113,Rico's Lavish Lounge,3090 Hull St,2.8
 Carter Jones Park,1141.0640864837742,Marcel's Restaurant,3405 Hull St,0.0
 Carter Jones Park,1141.0640864837742,Sports Bar and Grill,3405 Hull St,0.0
@@ -83,22 +85,22 @@ Blackwell,596.1153524061201,Autum Restaurant & Lounge,1115 Hull St,3.8
 Blackwell,497.8215922087868,Fire & Ice Restaurant Grill & Lounge,1303 Hull St,0.0
 Science Museum,312.6595632591634,Sabai,2727 W Broad St,3.9
 Science Museum,287.2448169089773,Fanboy,2713 W Broad St,3.9
-Science Museum,684.1986868916679,Fat Dragon Chinese Kitchen and Bar,1200 N Arthur Ashe Blvd,4.1
 Science Museum,546.2918424124679,Harry's,2818 W Broad St,4.4
-Science Museum,926.4482222938689,Amuse Restaurant,200 N Blvd,4.1
 Science Museum,506.49656322509617,River City Roll,939 Myers St,3.9
+Science Museum,684.1986868916679,Fat Dragon Chinese Kitchen and Bar,1200 N Arthur Ashe Blvd,4.1
 Science Museum,412.3757209976446,Stanley's,2601 Park Ave,3.9
+Science Museum,926.4482222938689,Amuse Restaurant,200 N Blvd,4.1
+Science Museum,941.927433426974,Beaucoup,111 N Robinson St,4.7
 Science Museum,244.45715661600016,Gus' Bar & Grill,2701 W Broad St,3.5
 Science Museum,745.2915058073291,Curbside Cafe,2525 Hanover Ave,4.0
-Science Museum,941.927433426974,Beaucoup,111 N Robinson St,4.7
-Science Museum,1064.4234259951622,Ardent Craft Ales,3200 W Leigh St,4.3
-Science Museum,1179.991821550014,Dont Look Back,3306 W Broad St,3.7
 Science Museum,546.2918424124679,Hofheimer Rooftop,2818 W Broad St,3.3
-Science Museum,793.0511954664513,McCormack's Whiskey Grill & Smokehouse,204 N Robinson St,3.8
-Science Museum,680.4423816115258,Bandito's Burrito Lounge,2905 Patterson Ave,3.4
+Science Museum,1064.4234259951622,Ardent Craft Ales,3200 W Leigh St,4.3
 Science Museum,1153.597545476971,Social52,2619 W Main St,3.7
-Science Museum,754.6803695365247,Buddy's Place,600 N Sheppard St,3.9
-Science Museum,963.2441007036647,Parlay,3117 W Leigh St,4.4
+Science Museum,1179.991821550014,Dont Look Back,3306 W Broad St,3.7
+Science Museum,793.0511954664513,McCormack's Whiskey Grill & Smokehouse,204 N Robinson St,3.8
+Science Museum,1351.0504148665584,Mom's Siam,2811 W Cary St,3.5
+Science Museum,800.4084746482955,Lillian,3001 W Leigh St,4.2
+Science Museum,680.4423816115258,Bandito's Burrito Lounge,2905 Patterson Ave,3.4
 Browns Island,1007.1195213035509,Basic City Beer,212 W 6th St,4.6
 Browns Island,888.975840847744,Echelon Wine Bar,1209 E Cary St,4.2
 Browns Island,953.6233608849989,Bateau,301 Virginia St,3.6
@@ -108,14 +110,14 @@ Jefferson Ave,605.5164370624527,Honey Whyte's All American Café,2116 E Main St,
 Jefferson Ave,800.8562709168488,The Pizza Place,1731 E Main St,3.1
 Jefferson Ave,663.6539790149997,Margarita's Cantina,101-107 N 18th St,2.3
 Jefferson Ave,813.5540861271307,Wonderland,1727 E Main St,4.3
-Jefferson Ave,696.1778124487082,La Bamba,19 N 18th St,3.4
+Jefferson Ave,751.8157702323344,Liquid 2.0,4 N 18th St,3.5
 Jefferson Ave,728.3151506797543,McCormack's Irish Pub,12 N 18th St,4.2
 Chimborazo Park,956.0765634269474,Island Shrimp - Rocketts Landing,11 Orleans St,3.9
 Chimborazo Park,896.4359984021958,The Boathouse,4708 E Old Main St,3.7
-Pleasants Park-Oregon Hill,1042.2973596194872,The 4 Cyber Cafe,4 W Broad St,2.7
 Pleasants Park-Oregon Hill,998.6943838063752,Juan's Rooftop & Cantina,11 W Broad St,3.0
+Pleasants Park-Oregon Hill,1042.2973596194872,The 4 Cyber Cafe,4 W Broad St,2.7
 Petronius Jones Park-Randolph,1130.2074294935196,Pizza & Beer of Richmond,2553 W Cary St,4.0
 Petronius Jones Park-Randolph,848.1597584403,Barrio Taqueria + Tequila,2229 W Main St,3.7
-Petronius Jones Park-Randolph,999.7357104269773,City Beach,2416 W Cary St,3.6
 Petronius Jones Park-Randolph,856.4927546088303,Sticky Rice,2232 W Main St,3.2
+Petronius Jones Park-Randolph,999.7357104269773,City Beach,2416 W Cary St,3.6
 Petronius Jones Park-Randolph,857.4074034730677,Pik Nik,2301 WMain St,3.8
