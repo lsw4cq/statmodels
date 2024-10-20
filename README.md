@@ -1,7 +1,7 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-The goal was to find a correlation between bike availability and being near office buildings and/or bars
+The goal was to find a correlation between bike availability and being near schools and/or bars
 
 ## Process
 ### City Bikes
@@ -21,17 +21,26 @@ The goal was to find a correlation between bike availability and being near offi
 3. Figured out the map for accessing the information I needed
 4. Wrote code that iterated through the station data and pulled POIs for each station
 5. Created a dataframe with parsed data
-6. Checked for duplicates
-    * Duplicates were found. The only difference between the duplicates was the distance from the station so all were eliminated and distance can no longer be used reliably as a method of analysis for the Yelp data.
+### EDA
+1. Outlined basic data to check for outliers and get a sense of the dataset individually and then when merged as well. 
+2. Created graphs and images to visualize the data.
+### Model Creation
+1. I opted to create a model based on empty bikes and ratings from foursquare and yelp and also if the location was a school or a bar. 
 
 ## Results
-I found that there might be a correlation between yelp rating and free bikes but honestly I think it's a fluke since there aren't a lot of free bikes and it's random. Working with such a small dataset doesn't give way for good data. 
+According to my model, there is a signifant correlation between ratings from yelp and foursquare and whether there are free bikes available. This can be seen in the low p-value. 
 
-I also learned that getting the data into a state to be analyzed is signifcant.
+The r squared value is quite low. This means that as a whole my model isn't really going to be accurate. 
+
+There is no correlation between available bikes and schools. Which is not surprising since most school kids don't share their bikes.
+
+I tried to change the model into a regression model using Logistic regression but the varying amount of rows that were schools vs bars made the model unusable. 
 
 ## Challenges 
-Yelp's categories does not include a generic office category so I used various other categories to try and collect that same data as foursquare. 
+Foursquare had a lot of blank data which made it difficult to hold onto a lot of their input. 
 
-The biggest challenge wasn't the code but getting a handle on the data and making sure that what I wanted to come in was coming in. I really struggled with keeping all of the data straight and making sure that I wasn't making too many API calls.
+The biggest challenge wasn't the code but getting a handle on the data and making sure that what I wanted to come in was coming in. I really struggled with keeping all of the data straight.
+
+The API call build was challenging at first but once I got the call right, I didn't have to keep making calls and it was fine. 
 ## Future Goals
-If I had more time I would have used a different city. I realized once I had been working on the project for awhile that the bike data wasn't awesome for what I wanted to look at and see.
+If I had more time and brain power, I would have spent more time on figuring out the stretch activity. 
