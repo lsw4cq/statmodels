@@ -1,390 +1,390 @@
-station,distance,name,location.address,rating,popularity,categories
-Fairfax Dr & Wilson Blvd,97,The Liberty Tavern,3195 Wilson Blvd,8.5,0.982388775009383,bar
-Fairfax Dr & Wilson Blvd,240,Lyon Hall,3100 Washington Blvd,8.5,0.9821866789849005,bar
-Fairfax Dr & Wilson Blvd,131,The Lot,3217 10th St N,8.0,0.9721107486214164,bar
-Fairfax Dr & Wilson Blvd,62,O'Sullivan's Irish Pub,3207 Washington Blvd,7.5,0.9806853942316021,bar
-Fairfax Dr & Wilson Blvd,442,Screwtop Wine Bar,1025 N Fillmore St,8.5,0.9652106129283714,bar
-Fairfax Dr & Wilson Blvd,200,Pamplona,3100 Clarendon Blvd,7.7,0.9549037156797644,bar
-Fairfax Dr & Wilson Blvd,426,The Board Room,925 N Garfield St,8.2,0.9720241360394953,bar
-Fairfax Dr & Wilson Blvd,157,Don Tito,3165 Wilson Blvd,7.3,0.9886248809076998,bar
-Fairfax Dr & Wilson Blvd,311,East West Coffee Wine,3101 Wilson Blvd,7.5,0.9730634870225482,bar
-Fairfax Dr & Wilson Blvd,460,Wilson Hardware Kitchen & Bar,2915 Wilson Blvd,7.3,0.9670006062880735,bar
-South St & University Dr,219,High Side,4009 Chain Bridge Rd,8.3,0.9675858732462506,bar
-South St & University Dr,331,The Wine House,3950 University Dr,8.4,0.9403322044831479,bar
-South St & University Dr,312,The Auld Shebeen,3971 Chain Bridge Rd,7.7,0.9704886308659894,bar
-South St & University Dr,292,21 Great American Bistro,10427 North St,7.6,0.5670053217223029,bar
-South St & University Dr,307,Ornery Beer Company,3950 University Dr,7.3,0.9648443799387195,bar
-South St & University Dr,175,Capital Ale House,4069 Chain Bridge Rd,,0.9582325431382035,bar
-South St & University Dr,222,Firehouse,3988 University Dr,,0.38638929204966943,bar
-South St & University Dr,233,Sager School,4000 Chain Bridge Rd,,0.600477396665802,school
-South St & University Dr,233,The Funktastical Fo' Thousand Karaoke Celebration,3988 University Dr,,0.757781003064022,bar
-South St & University Dr,233,The Most Crunk Karaoke Show in Town,3988 University Dr,,0.6802128688921142,bar
-Fessenden St & Wisconsin Ave NW,319,Georgetown Day School,4200 Davenport St NW,,0.994807775516418,school
-Fessenden St & Wisconsin Ave NW,457,Satay Club Asian Restaurant and Sushi Bar,4654 Wisconsin Ave NW,,0.6984743834233426,bar
-Fessenden St & Wisconsin Ave NW,467,Alley Cat,5247 Wisconsin Ave NW,,0.9430938606753096,bar
-Fessenden St & Wisconsin Ave NW,219,St John's Community Service,5151 Wisconsin Ave NW,,,school
-Fenton St & Gist Ave,268,Kaldi's Social House,918 Silver Spring Ave,9.1,0.9985297533190457,bar
-Fenton St & Gist Ave,482,Quarry House Tavern,8401 Georgia Ave,9.1,0.998341076421717,bar
-Fenton St & Gist Ave,259,Golf Ultra Lounge,8123 Georgia Ave,7.5,0.9943831966328964,bar
-Fenton St & Gist Ave,477,The Urban Winery,949 Bonifant St,7.7,0.9603880006899368,bar
-Fenton St & Gist Ave,142,The Nora School,955 Sligo Ave,,0.1377518832754289,school
-Fenton St & Gist Ave,194,Sheger Spring Cafe,900 Silver Spring Ave,,0.9867038250588012,bar
-Fenton St & Gist Ave,221,Citizens and Culture,8113 Georgia Ave,,0.9965756889907044,school
-Fenton St & Gist Ave,237,Hot Spot,8203 Fenton St,,0.13702790357654285,bar
-Fenton St & Gist Ave,416,Mix Bar and Grille,8241 Georgia Ave,5.8,0.9811235636559998,bar
-Fenton St & Gist Ave,304,Fire Station 1,8131 Georgia Ave,5.4,0.9758815895514769,bar
-Barcroft Community Center,352,Educate The Girls,1529 S George Mason Dr,,,school
-Pimmit Dr & Los Pueblos Ln,273,Tysons Pub,7511 Leesburg Pike,,0.4042348847084451,bar
-New Hampshire Ave & Ward Pl NW,83,Mercy Me DC Restaurant,1143 New Hampshire Ave NW,8.9,0.9849842149965545,bar
-New Hampshire Ave & Ward Pl NW,109,Washington Marriott Concierge Lounge,1221 22nd St NW,8.1,0.9680213458117658,bar
-New Hampshire Ave & Ward Pl NW,172,Casta's,1121 New Hampshire Ave NW,7.9,0.9653611320331404,bar
-New Hampshire Ave & Ward Pl NW,447,Pisco y Nazca Ceviche Gastrobar,1823 L St NW,8.7,0.9838704507940578,bar
-New Hampshire Ave & Ward Pl NW,181,Quadrant,1150 22nd St NW,7.8,0.9815868335443342,school
-New Hampshire Ave & Ward Pl NW,355,Park Hyatt Lounge and Bar,1201 24th St NW,8.1,0.9675966731302383,bar
-New Hampshire Ave & Ward Pl NW,427,Emissary,2032 P St NW,8.2,0.9831893719651928,bar
-New Hampshire Ave & Ward Pl NW,162,The Lobby Lounge at Ritz-Carlton,1150 22nd St NW,7.5,0.9470280924985176,bar
-New Hampshire Ave & Ward Pl NW,152,Chef Geoff's West End,2201 M St NW,7.5,0.9882854441435234,bar
-New Hampshire Ave & Ward Pl NW,459,North Italia,2112 Pennsylvania Ave NW,8.2,0.9813945289338312,bar
-Maple & Ritchie Ave,333,Piney Branch Elementary School,7510 Maple Ave,,0.9891512444160817,school
-Maple & Ritchie Ave,307,Montgomery County Public Schools,7510 Maple Ave,,,school
-N Howard St & N Imboden St,415,St Stephen's & St Agnes School,1000 Saint Stephens Rd,,0.994503442019318,school
-N Howard St & N Imboden St,506,Alexandria City Public Schools,4643 Taney Ave,,0.18880409840439724,school
-N Howard St & N Imboden St,225,Communities In School Of S Bay,4345 Raleigh Ave,,,school
-Market Square / King St & Royal St,111,Basin Street Lounge,219 King St,8.2,0.9660600885853033,bar
-Market Square / King St & Royal St,103,Gadsby's Tavern,138 N Royal St,8.0,0.9796680719355355,bar
-Market Square / King St & Royal St,82,Grape + Bean,118 S Royal St,7.9,0.7128982336303965,bar
-Market Square / King St & Royal St,297,Mai Thai,6 King St,8.2,0.9814291050749773,bar
-Market Square / King St & Royal St,291,Virtue Feed and Grain,106 S Union St,8.1,0.992689044239287,bar
-Market Square / King St & Royal St,287,Union Street Public House,121 S Union St,8.0,0.9883131437109771,bar
-Market Square / King St & Royal St,356,Murphy S Grand Ir,713 King St,8.0,0.9851112652756284,bar
-Market Square / King St & Royal St,234,Daniel O'Connell's,112 King St,7.6,0.9848444420726826,bar
-Market Square / King St & Royal St,311,Vola’s Dockside Grill and Hi-Tide Lounge,101 N Union St,7.8,0.9963712044399381,bar
-Market Square / King St & Royal St,222,Urbano,116 King St,7.5,0.9603500720422647,bar
-Westpark & Jones Branch Dr,257,The Atrium Lounge,7920 Jones Branch Dr,6.1,0.9558904613122587,bar
-Westpark & Jones Branch Dr,254,Hilton Hotel Bar,7920 Jones Branch Dr,,0.9875022973718066,bar
-Westpark & Jones Branch Dr,255,Opus 88,7920 Jones Branch Dr,,0.7807388347730196,bar
-Westpark & Jones Branch Dr,421,City Works,1640 Capital One Dr,,0.9448630766403234,bar
-Westpark & Jones Branch Dr,268,Flamingo's Lounge,7920 Jones Branch Dr,,,bar
-Wilson Blvd & N Illinois St ,470,Saint Ann Catholic School,980 N Frederick St,,0.9510061494933164,school
-Temporary Rd & Old Reston Ave,261,The Capital Burger,11853 Market St,7.9,0.9953297941603646,bar
-Temporary Rd & Old Reston Ave,472,Makers Union,1811 Library St,7.7,0.9924841875040864,bar
-Temporary Rd & Old Reston Ave,350,Taste of Reston,11900 Market St,6.2,0.9392709273764033,bar
-Temporary Rd & Old Reston Ave,380,Sixty Vines,11905 Market St,,0.9926253317974658,bar
-Temporary Rd & Old Reston Ave,298,Tara School,11730 Bowman Green Dr,,,school
-Temporary Rd & Old Reston Ave,493,Fairfax Collegiate School,1766 Ivy Oak Sq,,,school
-Georgia Ave & Emerson St NW,411,Bar Illusion,5213 Georgia Ave NW,,0.42371115847502444,bar
-Georgia Ave & Emerson St NW,422,Luna Restaurant,5217 Georgia Ave NW,,0.9016762551882181,bar
-Georgia Ave & Emerson St NW,467,John Lewis Elementary School,1335 Farragut St NW,,0.9937661255428599,school
-Georgia Ave & Emerson St NW,464,West Education Campus,1338 Farragut St NW,,,school
-Georgia Ave & Emerson St NW,474,District Of Columbia Pubc Sch,1338 Farragut St NW,,,school
-Carlin Springs Rd & N Thomas St,402,Mussel Bar & Grille,800 N Glebe Rd,8.0,0.9592054739151774,bar
-Carlin Springs Rd & N Thomas St,460,Grand Cru Wine Bar and Bistro,4401 Wilson Blvd,7.6,0.9404105436383059,bar
-Carlin Springs Rd & N Thomas St,428,Punch Bowl Social,4238 Wilson Blvd,7.0,0.9852181193521379,bar
-Carlin Springs Rd & N Thomas St,447,Hawkers Asian Street Food,4201 Wilson Blvd,6.9,0.9847561855818922,bar
-Carlin Springs Rd & N Thomas St,323,The Sports Page,627 N Glebe Rd,,0.7088373704420129,bar
-Carlin Springs Rd & N Thomas St,351,Superette,4238 Wilson Blvd,,0.9321246066345238,bar
-Carlin Springs Rd & N Thomas St,354,Local Oyster,4238 Wilson Blvd,,0.19542685567456766,bar
-Carlin Springs Rd & N Thomas St,362,Whino,4238 Wilson Blvd,5.5,0.9635938447325115,bar
-Carlin Springs Rd & N Thomas St,403,K.W. Barrett,4401 N Henderson Rd,,0.9736409042353552,school
-Carlin Springs Rd & N Thomas St,405,FPA Penalty Box,4201 Wilson Blvd,,0.601380027138609,bar
-Hilltop Rd & Willowmere Dr ,475,Cedar's Hookah,,8.0,0.9981668327077764,bar
-Hilltop Rd & Willowmere Dr ,175,Elizabeth Blackwell School,2812 Old Lee Hwy,,0.19245423482350768,school
-Hilltop Rd & Willowmere Dr ,165,Hillwood School,2812 Old Lee Hwy,,,school
-Hilltop Rd & Willowmere Dr ,170,Fairfax County School District,2812 Old Lee Hwy,,,school
-Adams Mill & Columbia Rd NW,25,Taqueria Al Lado,1792 Columbia Rd NW,8.3,0.9743433598820531,bar
-Adams Mill & Columbia Rd NW,208,Lapis,1847 Columbia Rd NW,9.1,0.9784298328552427,bar
-Adams Mill & Columbia Rd NW,203,La Pop,1847 Columbia Rd NW,8.4,0.9022371436355187,school
-Adams Mill & Columbia Rd NW,97,Madam's Organ,2461 18th St NW,7.9,0.9658579189436066,bar
-Adams Mill & Columbia Rd NW,378,The Green Zone,2226 18th St NW,9.2,0.9827166231310396,bar
-Adams Mill & Columbia Rd NW,90,Bossa,2463 18th St NW,7.8,0.9434624445121071,school
-Adams Mill & Columbia Rd NW,171,Elfegne,2420 18th St NW,7.8,0.9552330892133138,bar
-Adams Mill & Columbia Rd NW,152,Club Timehri,2439 18th St NW,7.7,0.9262752199483982,bar
-Adams Mill & Columbia Rd NW,227,Tiki On 18th,2411 18th St NW,7.0,0.979775965128764,bar
-Adams Mill & Columbia Rd NW,261,Grand Duchess,2337 18th St NW,7.0,0.9778849697921508,bar
-W Columbia St & N Washington St,441,South Block Co,2121 N Westmoreland St,9.1,0.9695701128850651,bar
-W Columbia St & N Washington St,450,Dmawef,200 Little Falls St,,,school
-D St & Maryland Ave NE,145,Higher Achievement Program,317 8th St NE,,0.15341100302879762,school
-D St & Maryland Ave NE,326,Carbery School,410 5th St NE,,0.010104004743513726,school
-D St & Maryland Ave NE,372,School Within School,920 F St NE,,0.932308777102931,school
-D St & Maryland Ave NE,406,Stuart-Hobson Middle School,410 E St NE,,0.9894152337302287,school
-D St & Maryland Ave NE,406,School Within School-Peabody,425 C St NE,,0.5704956651335715,school
-D St & Maryland Ave NE,406,Peabody Elementary School,425 C St NE,,0.4422525280043589,school
-D St & Maryland Ave NE,413,Ludlow-Taylor Elementary School,659 G St NE,,0.9835098796493646,school
-D St & Maryland Ave NE,431,The Grotto,605 10th St NE,,0.38733353632153333,bar
-D St & Maryland Ave NE,462,Love Joy Lofts,440 12th St NE,,0.24537267030977067,school
-D St & Maryland Ave NE,548,Stuart Hobson MS Capitol Hill Cluster,410 E St NE,,0.39434464191278984,school
-Grandview & Blueridge Ave,374,GISELE'S Creole Cuisine,2407 Price Ave,8.1,0.9604612850082372,bar
-Grandview & Blueridge Ave,401,The Limerick Pub,11301 Elkin St,7.7,0.9625794304542246,bar
-Grandview & Blueridge Ave,341,Unplugged Restaurant & Sports Bar,11305 Georgia Ave,7.5,0.911508590256531,bar
-Grandview & Blueridge Ave,200,Laberinto Bar and Grill,2423 Hickerson Dr,,0.8037185220051777,bar
-Grandview & Blueridge Ave,297,Barnabys Restaurant and Sports Pub,2417 University Blvd W,,0.7947752412332314,bar
-Grandview & Blueridge Ave,308,Riverside Lounge,11272 Georgia Ave,,0.9225700164744646,bar
-Grandview & Blueridge Ave,343,Caliente Restaurant & Bar,2442 Ennalls Ave,,0.5467168745587196,bar
-Grandview & Blueridge Ave,385,Hakuna Matata Grill,2405 Price Ave,,0.8978583196046128,bar
-Grandview & Blueridge Ave,444,Pashion Lounge And Restaurant,2310 Price Ave,,0.9218639679924688,bar
-Grandview & Blueridge Ave,445,Pearl Seafood Restaurant,11230 Grandview Ave,,0.012238173687926571,bar
-Potomac Greens Dr & Slaters Ln,230,Jim’s Pork & Grain,650 Potomac Ave,,0.239451290844698,bar
-Potomac Greens Dr & Slaters Ln,341,18 Eads Lounge,1800 Richmond Hwy,,0.4986925663055659,bar
-Potomac Greens Dr & Slaters Ln,401,Barkhaus,529 E Howell Ave,,0.9610438123699236,bar
-Columbia Pike & S Orme St,50,Sheraton National Hotel Club 14,900 S Orme St,,0.5973092357883188,bar
-Columbia Pike & S Orme St,254,IT Lounge,29 Carpenter Rd,,0.460547968934954,bar
-Olde Crafts Dr and Cartwright Pl,215,Reston Swamp,2257 Coppersmith Sq,,0.7992651214626333,bar
-Columbia Pike & W&OD Trail ,157,"Grobani, Privett & Smith Associates",955 S Columbus St,,0.0784421283598464,school
-Columbia Pike & W&OD Trail ,336,Barcroft School & Civic League,800 S Buchanan St,,,school
-Maine Ave & Water St SW,154,Moonraker,655 Water St SW,7.9,0.9928767167192833,bar
-Maine Ave & Water St SW,328,Boardwalk Bar & Arcade,715 Wharf St SW,7.5,0.9929808817166391,bar
-Maine Ave & Water St SW,490,12 Stories,75 District Sq SW,7.7,0.9760821140686848,bar
-Maine Ave & Water St SW,353,Pearl Street Warehouse,33 Pearl St SW,7.3,0.9692312623195141,bar
-Maine Ave & Water St SW,357,Kirwan's On The Wharf,749 Wharf St SW,6.9,0.9939183666928415,bar
-Maine Ave & Water St SW,293,Whiskey Charlie,975 7th St SW,6.6,0.9541674011634429,bar
-Maine Ave & Water St SW,116,Pendry Washington DC,655 Water St SW,,0.9714107145718819,bar
-Maine Ave & Water St SW,244,Appletree Early Learning Public Charter School,680 I St SW,,0.04944632297559334,school
-Maine Ave & Water St SW,256,7th Street Park at the Wharf,999 7th St SW,,0.9485024278457076,bar
-Maine Ave & Water St SW,308,Canopy Central Cafe and Bar,975 7th St SW,,0.891123539686864,bar
-University Dr & Democracy Ln,263,The Wine House,3950 University Dr,8.4,0.9403322044831479,bar
-University Dr & Democracy Ln,423,High Side,4009 Chain Bridge Rd,8.3,0.9675858732462506,bar
-University Dr & Democracy Ln,309,The Auld Shebeen,3971 Chain Bridge Rd,7.7,0.9704886308659894,bar
-University Dr & Democracy Ln,291,21 Great American Bistro,10427 North St,7.6,0.5670053217223029,bar
-University Dr & Democracy Ln,278,Ornery Beer Company,3950 University Dr,7.3,0.9648443799387195,bar
-University Dr & Democracy Ln,135,Chubby Squirrel Brewing Company,10382 Willard Way,7.0,0.9638767940654733,bar
-University Dr & Democracy Ln,238,Tandoori Nights Fairfax,10312 Willard Way,,0.888243831640058,bar
-University Dr & Democracy Ln,305,Ruffino S Spaghetti House,10427 North St,,0.8619577487502016,bar
-University Dr & Democracy Ln,349,The Funktastical Fo' Thousand Karaoke Celebration,3988 University Dr,,0.757781003064022,bar
-University Dr & Democracy Ln,349,The Most Crunk Karaoke Show in Town,3988 University Dr,,0.6802128688921142,bar
-Metro Park Dr & Walker Ln ,411,Chili's Grill & Bar,6250 Inter Parcel Rd,7.1,0.9984153588655498,bar
-Metro Park Dr & Walker Ln ,213,Calvary Road Christian School,6811 Beulah St,,0.9508222426474151,school
-Wilson Blvd & N Oak St,262,Salt,1201 Wilson Blvd,7.9,0.9542108150243959,bar
-Wilson Blvd & N Oak St,310,Barley Mac,1600 Wilson Blvd,7.8,0.9726304241129428,bar
-Wilson Blvd & N Oak St,325,Continental Beer Garden,1901 Fort Myer Dr,7.0,0.9515258249848428,bar
-Wilson Blvd & N Oak St,415,Quinn's On The Corner,1776 Wilson Blvd,6.5,0.9708693016138811,bar
-Wilson Blvd & N Oak St,92,Key Bridge Terrace,1325 Wilson Blvd,,0.8889915408378324,bar
-Wilson Blvd & N Oak St,184,The Boardroom,1505E N Colonial Ter,,0.09195369113953288,bar
-Wilson Blvd & N Oak St,426,Amuse Bar,,5.8,0.9796460432485492,bar
-Wilson Blvd & N Oak St,346,Petitbon's American Grill & Sports Bar,1911 Fort Myer Dr,,0.8809654415798135,bar
-Wilson Blvd & N Oak St,368,East West Coffee,1901 N Moore St,,0.016976066056529144,bar
-Wilson Blvd & N Oak St,368,The Yard,1121 19th St N,,0.930767676184427,bar
-Park Rd & Holmead Pl NW,307,El Chucho Cocina Superior,3313 11th St NW,8.8,0.9717792984086794,bar
-Park Rd & Holmead Pl NW,300,Queens English,3410 11th St NW,8.1,0.9403374945914328,bar
-Park Rd & Holmead Pl NW,333,The Wonderland Ballroom,1101 Kenyon St NW,7.3,0.9804249931892117,bar
-Park Rd & Holmead Pl NW,312,RedRocks Columbia Heights,1036 Park Rd NW,7.2,0.9487988974535665,bar
-Park Rd & Holmead Pl NW,180,Zeba,3423 14th St NW,6.7,0.9592474479575648,school
-Park Rd & Holmead Pl NW,409,Tequila & Mezcal,3475 14th St NW,6.3,0.9812743385522668,bar
-Park Rd & Holmead Pl NW,106,Park Road Pours,1319 Park Rd NW,,0.020816974086953734,bar
-Park Rd & Holmead Pl NW,256,Tubman Elementary School,3101 13th St NW,,0.9182865659204179,school
-Park Rd & Holmead Pl NW,262,Champions at Harriet Tubman Elementary,3101 13th St NW,,0.23539686863992565,school
-Park Rd & Holmead Pl NW,290,Pitcher And Crow,3400 11th St NW,,0.852045640294226,bar
-MLK & Marion Barry Ave SE,114,Allah's University of Islam,1110 U St SE,,0.5041185237416067,school
-MLK & Marion Barry Ave SE,121,AYT Institute,1110 U St SE,,0.6415121552539222,school
-MLK & Marion Barry Ave SE,302,Cedar Hill Bar and Grill,2200 Martin Luther King Jr Ave SE,,0.8961314722520473,bar
-MLK & Marion Barry Ave SE,389,Ketcham Elementary School,1919 15th St SE,,0.967532571593404,school
-MLK & Marion Barry Ave SE,417,The Music Box,2235 Shannon Pl SE,,0.9672200766013365,bar
-MLK & Marion Barry Ave SE,38,Rocketship Dc,1227 Good Hope Rd SE,,,school
-MLK & Marion Barry Ave SE,130,Howard Road Academy,2005 Martin Luther King Jr Ave SE,,,school
-Offutt Ln & Chevy Chase Dr,459,Villain & Saint,7141 Wisconsin Ave,7.4,0.9239118527240007,bar
-Offutt Ln & Chevy Chase Dr,450,World of Beer,7200 Wisconsin Ave,6.7,0.9943981653230886,bar
-Offutt Ln & Chevy Chase Dr,374,Maki Bar,6831 Wisconsin Ave,,0.4123103528153429,bar
-Offutt Ln & Chevy Chase Dr,409,Oneness Family School,6701 Wisconsin Ave,,0.9697020960348323,school
-Offutt Ln & Chevy Chase Dr,414,WeddingWire Sky Lounge,7101 Wisconsin Ave,,0.44488484920689403,bar
-Reston Station Blvd & Sunset Hills Rd,429,Academy of Christian Education,1808 Michael Faraday Ct,,0.7847015294176328,school
-Reston Station Blvd & Sunset Hills Rd,292,Owego Apalachin Central Sch,11091 Sunset Hills Rd,,,school
-Glade Dr & Pinecrest Rd/Cathy Hudgins Cmty Ctr,402,Dogwood Elementary School,12300 Glade Dr,,0.9965086741392136,school
-Langston Blvd & N Cleveland St,68,Cloud Lounge,2525 Langston Blvd,7.8,0.9937638941016832,bar
-Langston Blvd & N Cleveland St,63,Jesseoke,N Cleveland St,,0.4917284984265381,school
-Langston Blvd & N Cleveland St,404,Bar Bryson,1902 N Vance St,,0.5076074717787338,bar
-Connecticut Ave & McKinley St NW,84,Macon Bistro & Larder,5520 Connecticut Ave NW,7.6,0.9342718866684829,bar
-Connecticut Ave & McKinley St NW,376,Blessed Sacrament School,5841 Chevy Chase Pkwy NW,,0.08737840739731735,school
-Rockville Metro West,295,World of Beer,196 E Montgomery Ave,7.8,0.9790937178166839,bar
-Rockville Metro West,461,Finnegan's Wake,100 Gibbs St,7.7,0.9872296601441812,bar
-Rockville Metro West,208,Junior Achievement,51 Monroe St,,0.5070030895983522,school
-Rockville Metro West,347,St Mary's Catholic School Rockville,400 Veirs Mill Road,,0.8721936148300721,school
-Rockville Metro West,360,Pour Vino N' Hops,42 Maryland Ave,,0.9490216271884655,bar
-Rockville Metro West,420,Ambrosia Express Ta,100 Maryland Ave,,0.09402677651905253,bar
-Rockville Metro West,448,Thai Chef - Rockville,29 Maryland Ave,,0.9715756951596293,bar
-Rockville Metro West,504,Bar Louie,150 Gibbs St,5.6,0.8600411946446962,bar
-Rockville Metro West,474,Plaza Oaxaca,141 Gibbs St,,0.9516992790937178,bar
-Rockville Metro West,243,Kabuto Japanese Shushi Bar,1 Choice Hotels Cir,,,bar
-Fairfax Dr & N Taylor St,19,Uncle Julio's,4301 Fairfax Dr,8.0,0.9907613245950861,bar
-Fairfax Dr & N Taylor St,269,Bronson Bier Hall,4100 Fairfax Dr,8.2,0.9864884372203135,school
-Fairfax Dr & N Taylor St,304,Mussel Bar & Grille,800 N Glebe Rd,8.0,0.9592054739151774,bar
-Fairfax Dr & N Taylor St,178,Grand Cru Wine Bar and Bistro,4401 Wilson Blvd,7.6,0.9404105436383059,bar
-Fairfax Dr & N Taylor St,268,Crafthouse,901 N Glebe Rd,7.4,0.9702630135404336,bar
-Fairfax Dr & N Taylor St,126,First Down Sports Bar & Grill,4213 Fairfax Dr,6.6,0.9803966856251984,bar
-Fairfax Dr & N Taylor St,386,Punch Bowl Social,4238 Wilson Blvd,7.0,0.9852181193521379,bar
-Fairfax Dr & N Taylor St,306,Hawkers Asian Street Food,4201 Wilson Blvd,6.9,0.9847561855818922,bar
-Fairfax Dr & N Taylor St,170,Hilton Arlington Executive Lounge,950 N Stafford St,,0.8949100672691053,school
-Fairfax Dr & N Taylor St,182,Lounge At Dan & Brad's,950 N Stafford St,,0.4525218696769351,bar
-Arlington Blvd & S George Mason Dr,237,St Thomas More Cathedral School,105 N Thomas St,,0.9906169702918844,school
-Arlington Blvd & S George Mason Dr,476,Cleopatra Lounge,237 N Glebe Rd,,0.5479400640933106,bar
-Arlington Blvd & S George Mason Dr,477,Ricky's Pub & Grill,237 N Glebe Rd,,0.25726823916620956,bar
-Arlington Blvd & S George Mason Dr,300,Office of Catholic Schools,200 N Glebe Rd,,,school
-Veterans Pl & Pershing Dr ,475,Quarry House Tavern,8401 Georgia Ave,9.1,0.998341076421717,bar
-Veterans Pl & Pershing Dr ,436,The Urban Winery,949 Bonifant St,7.7,0.9603880006899368,bar
-Veterans Pl & Pershing Dr ,242,Matchbox,919 Ellsworth Dr,7.0,0.9964436993136435,bar
-Veterans Pl & Pershing Dr ,215,McGinty's Public House,911 Ellsworth Dr,6.6,0.9990407798121483,bar
-Veterans Pl & Pershing Dr ,238,Dave & Buster's,8661 Colesville Rd,6.2,0.9985089450546558,bar
-Veterans Pl & Pershing Dr ,96,Locavino,8519 Fenton St,,0.9951940814359987,bar
-Veterans Pl & Pershing Dr ,177,Chelsea School,711 Pershing Dr,,0.969758757754776,school
-Veterans Pl & Pershing Dr ,243,Savor,8727 Colesville Rd,,0.921834800332973,bar
-Veterans Pl & Pershing Dr ,246,Twisted Willow,8727 Colesville Rd,,0.4450206639325559,bar
-Veterans Pl & Pershing Dr ,331,Dog Haus,933 Ellsworth Dr,,0.9974374214398768,bar
-Hartland Rd & Harte Pl,343,Open Road Grill & Icehouse,8100 Lee Hwy,8.1,0.9954577037855843,bar
-Congress Heights Metro,137,Malcolm X Elementary School,1351 Alabama Ave SE,,0.9548404673002036,school
-Congress Heights Metro,494,Achievement Preparatory Academy,1500 Mississippi Ave SE,,0.08734635662890018,school
-Congress Heights Metro,496,Turner Elementary School,1500 Mississippi Ave SE,,0.0571545327799234,school
-Founders Row/W Broad St & West St,28,Dominion Wine and Beer,107 Rowell Ct,9.1,0.9825374198146828,bar
-Founders Row/W Broad St & West St,413,Spacebar,709 W Broad St,7.9,0.9590163934426229,bar
-Founders Row/W Broad St & West St,178,Saint James School Convent,101 N Spring St,,0.7758374910905204,school
-Founders Row/W Broad St & West St,239,Saint James Catholic School,830 W Broad St,,0.9511760513186029,school
-Founders Row/W Broad St & West St,318,Falls Church City School Board Superintendent Office,800 W Broad St,,0.47255880256593014,school
-Founders Row/W Broad St & West St,334,Falls Church City Public Schools,800 W Broad St,,0.26657163221667857,school
-Founders Row/W Broad St & West St,319,Northwood High School,800 W Broad St,,,school
-W&OD Trail/Sunset Hills Rd & Old Reston Ave,314,The Dominion Lounge,11710 Plaza America Dr,,0.7831604683369107,school
-W&OD Trail/Sunset Hills Rd & Old Reston Ave,446,KidWX,11654 Plaza America Dr,,0.8882043100239632,school
-W&OD Trail/Sunset Hills Rd & Old Reston Ave,372,Fairfax Collegiate School,1766 Ivy Oak Sq,,,school
-W&OD Trail/Sunset Hills Rd & Old Reston Ave,476,Fox Mill Woods Swim & Tennis,11654 Plaza America Dr,,,bar
-George Mason Dr & Wilson Blvd,144,Arlington Traditional School,855 N Edison St,,0.9028206830845628,school
-George Mason Dr & Wilson Blvd,489,Iot Hack School,900 N Glebe Rd,,0.8530761902012299,school
-George Mason Dr & Wilson Blvd,497,CarPool,900 N Glebe Rd,,0.9831105465253919,bar
-George Mason Dr & Wilson Blvd,429,Holiday Inn,4610 Fairfax Dr,,,bar
-George Mason Dr & Wilson Blvd,434,Full Circle Montessori School,801 N Wakefield St,,,school
-S Arlington Mill Dr & Campbell Ave,227,Copperwood Tavern,4021 Campbell Ave,8.5,0.9824753875913042,bar
-S Arlington Mill Dr & Campbell Ave,193,Cheesetique,4056 Campbell Ave,8.3,0.8997892427173254,bar
-S Arlington Mill Dr & Campbell Ave,136,Big Buns Damn Good Burger Co.,4251 Campbell Ave,7.4,0.9794439472240668,bar
-S Arlington Mill Dr & Campbell Ave,140,Dudley’s Sports Bar,,6.6,0.9806565233709617,bar
-S Arlington Mill Dr & Campbell Ave,141,Dudley's Sport and Ale,2766 S Arlington Mill Dr,,0.8974218321448162,bar
-S Arlington Mill Dr & Campbell Ave,149,Snouts & Stouts,2709 S Oakland St,,0.9922337384877443,bar
-S Arlington Mill Dr & Campbell Ave,269,Astro Beer Hall,4001 Campbell Ave,,0.9941392152900078,bar
-Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,375,Black's Bar & Kitchen,7750 Woodmont Ave,8.7,0.9916641480846655,bar
-Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,453,Hawkers Asian Street Food,7117 Bethesda Ln,8.2,0.9931613741084194,bar
-Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,468,Villain & Saint,7141 Wisconsin Ave,7.4,0.9239118527240007,bar
-Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,285,Q by Peter Chang,4500 E West Hwy,7.0,0.9920717962642434,bar
-Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,409,World of Beer,7200 Wisconsin Ave,6.7,0.9943981653230886,bar
-Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,268,The Barking Dog,4723 Elm St,6.4,0.9960773616589572,bar
-Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,143,Piazza Beer Garden,7401 Woodmont Ave,,0.9604693722238434,bar
-Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,157,Corella Café & Lounge,4646 Montgomery Ave,,0.9955434868755443,bar
-Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,281,Our Lady Of Lourdes School,7500 Pearl St,,0.3966365276637205,school
-Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,309,The Salt Line,7284 Woodmont Ave,,0.9975271825803819,bar
-Gatehouse Rd & Telestar Ct,104,Fairfax County Public Schools,8115 Gatehouse Rd,,0.9843108491536493,school
-Gatehouse Rd & Telestar Ct,260,Luther Jackson Middle School,3020 Gallows Rd,,0.9909944330752667,school
-Gatehouse Rd & Telestar Ct,386,Musicbox,2980 Gallows Rd,,0.9959887990336805,bar
-Gatehouse Rd & Telestar Ct,395,TD Karaoke,2980 Gallows Rd,,0.24808719519590217,bar
-Gatehouse Rd & Telestar Ct,98,FCPS Grab and Go Meals,8115 Gatehouse Rd,,,school
-Gatehouse Rd & Telestar Ct,98,"Fairfax County, Schools & School Board, Superintendent's Office",8115 Gatehouse Rd,,,school
-Gatehouse Rd & Telestar Ct,98,Fairfax County Special Education,8115 Gatehouse Rd,,,school
-Gatehouse Rd & Telestar Ct,100,TJ Admissions,8115 Gatehouse Rd,,,school
-Gatehouse Rd & Telestar Ct,408,Fairfax County Public Schools,3020 Gallows Rd,,,school
-Roosevelt Center & Crescent Rd,136,Greenbelt Branch Branch Library,6301 Breezewood Dr,,,school
-Wisconsin Ave & Rodman St NW,97,Sidwell Friends School,3825 Wisconsin Ave NW,7.4,0.9910418102274002,school
-Wisconsin Ave & Rodman St NW,229,Top Test Prep,3615 Wisconsin Ave NW,,0.7133860034294323,school
-Wisconsin Ave & Rodman St NW,322,Hearst Elementary School,3950 37th St NW,,0.9376532427364946,school
-Wisconsin Ave & Rodman St NW,372,Donald S Goldman Liquors,4115 Wisconsin Ave NW,,0.7445954391756542,bar
-Wisconsin Ave & Rodman St NW,482,Yale Club DC,4200 Wisconsin Ave NW,,,bar
-Wilson Blvd & N Quincy St,263,Bronson Bier Hall,4100 Fairfax Dr,8.2,0.9864884372203135,school
-Wilson Blvd & N Quincy St,182,Punch Bowl Social,4238 Wilson Blvd,7.0,0.9852181193521379,bar
-Wilson Blvd & N Quincy St,235,Hawkers Asian Street Food,4201 Wilson Blvd,6.9,0.9847561855818922,bar
-Wilson Blvd & N Quincy St,405,First Down Sports Bar & Grill,4213 Fairfax Dr,6.6,0.9803966856251984,bar
-Wilson Blvd & N Quincy St,116,Robby's Health Juice Bar,3910 Wilson Blvd,,0.5043161936657332,bar
-Wilson Blvd & N Quincy St,253,The Sports Page,627 N Glebe Rd,,0.7088373704420129,bar
-Wilson Blvd & N Quincy St,262,Local Oyster,4238 Wilson Blvd,,0.19542685567456766,bar
-Wilson Blvd & N Quincy St,265,Superette,4238 Wilson Blvd,,0.9321246066345238,bar
-Wilson Blvd & N Quincy St,284,Whino,4238 Wilson Blvd,5.5,0.9635938447325115,bar
-Wilson Blvd & N Quincy St,299,DC Bocce,4201 Wilson Blvd,,0.0733608568871438,bar
-Minnesota Ave Metro/DOES,91,Friendship Collegiate Academy Carter G.Woodson Campus,4095 Minnesota Ave NE,,0.9960417301004791,school
-Minnesota Ave Metro/DOES,109,Friendship Collegiate School,4095 Minnesota Ave NE,,,school
-Minnesota Ave Metro/DOES,191,Village Learning Center Public Charter School,4017 Minnesota Ave NE,,,school
-Minnesota Ave Metro/DOES,407,Kuero DC,3701 Benning Rd NE,,,bar
-Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,67,Karin's Cafe,2 Wisconsin Cir,,0.9810860271790613,bar
-Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,117,Joy by Seven Reasons,5471 Wisconsin Ave,,0.9836285624845149,bar
-Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,123,Joy by Seven Reasons,5471 Wisconsin Ave,,0.4802088670338645,bar
-Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,124,The Hunter's Hound,5471 Wisconsin Ave,,0.9872413463885472,bar
-Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,175,Willie's Bar,4300 Military Rd NW,,0.8901299658659316,bar
-Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,341,Trattoria 5520,5520 Wisconsin Ave,,0.1503368286797452,bar
-Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,364,Alley Cat,5247 Wisconsin Ave NW,,0.9430938606753096,bar
-Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,195,PMP Certification Washington DC,5335 Wisconsin Ave NW,,,school
-Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,202,Banneker Ventures,5335 Wisconsin Ave NW,,,school
-Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,467,Your Creative Camera,5406 Shoemaker Farm Ln,,,school
-Mount Vernon Ave & E Del Ray Ave,39,St Elmo's Coffee Pub,2300 Mount Vernon Ave,8.0,0.9634452211964353,bar
-Mount Vernon Ave & E Del Ray Ave,195,Front Porch,2006 Mount Vernon Ave,8.3,0.919366028069801,bar
-Mount Vernon Ave & E Del Ray Ave,269,Kaizen Tavern,1909 Mount Vernon Ave,7.0,0.9456747958802497,bar
-Mount Vernon Ave & E Del Ray Ave,217,ChurchKey Beer Shop,2000 Mount Vernon Ave,,0.25897860077912377,bar
-Mount Vernon Ave & E Del Ray Ave,281,Mount Vernon Elementary School,2601 Commonwealth Ave,,0.9332941992635679,school
-Mount Vernon Ave & E Del Ray Ave,439,"Kevin D. Dohmen, M.Ed",21 W Caton Ave,,0.09184054645391963,school
-American University East Campus,409,Chef Geoff's,3201 New Mexico Ave NW,8.0,0.9812583131680582,bar
-American University East Campus,248,Mann Elementary School,4430 Newark St NW,,0.9440233329594077,school
-American University East Campus,422,Lindamood-Bell Learning Process,3201 New Mexico Ave NW,,0.7049406259515072,school
-American University East Campus,445,Saep Sa,4505 Lowell St NW,,,bar
-Eastern Market Metro,215,Beuchert's Saloon,623 Pennsylvania Ave SE,8.2,0.9690069069405939,bar
-Eastern Market Metro,234,Betsy,514 8th St SE,8.0,0.9557378888158844,bar
-Eastern Market Metro,243,Barrel,613 Pennsylvania Ave SE,8.0,0.9806653739523405,bar
-Eastern Market Metro,287,Mr. Henry's,601 Pennsylvania Ave SE,7.8,0.9776365763369177,bar
-Eastern Market Metro,460,Sushi Hachi,735 8th St SE,7.6,0.951354946234836,bar
-Eastern Market Metro,273,Tunnicliff's Tavern,222 7th St SE,7.1,0.984423326549254,bar
-Eastern Market Metro,368,Lola's Barracks Bar & Grill,711 8th St SE,6.6,0.9670197592987292,bar
-Eastern Market Metro,401,Valor Brewpub,723 TH St SE,6.5,0.9747600198714764,bar
-Eastern Market Metro,71,Hine Junior High School,335 8th St SE,,0.3060527876155831,school
-Eastern Market Metro,135,The Wells,727 C St SE,,0.9227015592698835,bar
-Washington & Independence Ave SW/HHS,437,Platte County School District,400 Maryland Ave SW,,0.47414304257944584,school
-George Mason Blvd & Armstrong St,355,Capital Ale House,4069 Chain Bridge Rd,,0.9582325431382035,bar
-George Mason Blvd & Armstrong St,438,Fairfax School Cluster 6,10515 School St,,,school
-Wilson Blvd & N Troy St,364,Ragtime,1345 N Courthouse Rd,8.1,0.9846695729999712,bar
-Wilson Blvd & N Troy St,454,Barley Mac,1600 Wilson Blvd,7.8,0.9726304241129428,bar
-Wilson Blvd & N Troy St,196,Ireland's Four Courts,2051 Wilson Blvd,7.0,0.9443369806853942,bar
-Wilson Blvd & N Troy St,350,Quinn's On The Corner,1776 Wilson Blvd,6.5,0.9708693016138811,bar
-Wilson Blvd & N Troy St,469,Courthaus Social,2300 Clarendon Blvd,6.4,0.98051216906776,bar
-Wilson Blvd & N Troy St,286,American Foundation For Pharmaceutical Education,2107 Wilson Blvd,,0.2164448422207466,school
-Wilson Blvd & N Troy St,398,The Interior Illusions Lounge,2100 Langston Blvd,,0.13179547882322373,bar
-Wilson Blvd & N Troy St,457,Adam's Corner,2319 Wilson Blvd,,0.4861564223229494,bar
-Wilson Blvd & N Troy St,485,Francis Scott Key Elementary School,2300 Key Blvd,,0.9705517221468372,school
-Wilson Blvd & N Troy St,336,Guerra Steakhouse,1725 Wilson Blvd,,,bar
-John McCormack Rd & Michigan Ave NE,332,Busboys and Poets,625 Monroe St NE,8.2,0.9899681094854249,bar
-John McCormack Rd & Michigan Ave NE,228,Brookland Pint,716 Monroe St NE,7.5,0.9915225717536578,bar
-John McCormack Rd & Michigan Ave NE,417,Smith Public Trust,3514 12th St NE,7.7,0.47720389096328586,bar
-John McCormack Rd & Michigan Ave NE,247,Murphy's Grill,620 Michigan Ave NE,,0.7244915946859826,bar
-John McCormack Rd & Michigan Ave NE,381,Bcafe,3740 12th St NE,5.8,0.2721510873223186,bar
-John McCormack Rd & Michigan Ave NE,398,The Library Bar & Grill,3548 12th St NE,,0.3814842710853993,bar
-John McCormack Rd & Michigan Ave NE,411,Luke C Moore High School,1001 Monroe St NE,,0.9300812486979375,school
-John McCormack Rd & Michigan Ave NE,426,The Runaway,3523 12th St NE,,0.9259867630326437,bar
-John McCormack Rd & Michigan Ave NE,478,Elsie Whitlow Stokes Community Freedom Public Charter School,3700 Oakview Ter NE,,0.9145927148603388,school
-John McCormack Rd & Michigan Ave NE,479,St Anthony's Catholic School,3400 12th St NE,,0.6297655486290283,school
-New Hampshire & Gallatin St NW,279,Washington Latin School,5200 2nd St NW,,0.9556337238185285,school
-New Hampshire & Gallatin St NW,455,Mamie D Lee School Dental Clinic,100 Gallatin St NE,,0.9452172240829474,school
-New Hampshire & Gallatin St NW,99,H&H Transportation,5025 1st St NW,,,school
-New Hampshire & Gallatin St NW,487,District of Columbia Public School,100 Gallatin St NE,,,school
-New Hampshire & Gallatin St NW,487,Briya Public Charter School,100 Gallatin St NE,,,school
-Columbia Rd & Georgia Ave NW,161,Doubles,3118 Georgia Ave NW,8.9,0.9730613291453662,bar
-Columbia Rd & Georgia Ave NW,172,Sonny's Pizza,3120 Georgia Ave NW,8.8,0.9799121808945369,bar
-Columbia Rd & Georgia Ave NW,159,No Kisses Bar,3120 Georgia Ave NW,8.2,0.9302415025400234,bar
-Columbia Rd & Georgia Ave NW,419,The Midlands,3333 Georgia Ave NW,8.8,0.9955289178058044,bar
-Columbia Rd & Georgia Ave NW,485,El Chucho Cocina Superior,3313 11th St NW,8.8,0.9717792984086794,bar
-Columbia Rd & Georgia Ave NW,277,St Vincent Wine,3212 Georgia Ave NW,7.6,0.9694556176984344,bar
-Columbia Rd & Georgia Ave NW,461,Hook Hall,3400 Georgia Ave NW,7.9,0.9899280460249035,bar
-Columbia Rd & Georgia Ave NW,400,The Wonderland Ballroom,1101 Kenyon St NW,7.3,0.9804249931892117,bar
-Columbia Rd & Georgia Ave NW,367,Peace Lounge,2632 Georgia Ave NW,7.2,0.9133106841236519,bar
-Columbia Rd & Georgia Ave NW,280,Chuck & Billy's Bar & Carryout,2718 Georgia Ave NW,7.0,0.9235909680934601,bar
-Langston Blvd & N Woodstock St,100,Cafe Colline,4536 Cherry Hill Rd,7.9,0.9758639605046626,bar
-Langston Blvd & N Woodstock St,430,Thirsty Bernie,2163 N Glebe Rd,,0.746918035626642,bar
-Langston Blvd & N Woodstock St,499,Vermont St Bar & Grill,2343 N Vermont St,,0.6686780032912781,bar
-Langston Blvd & N Woodstock St,99,Cafe Colline,4536 Langston Blvd,,,bar
-Washington-Liberty High School / N Stafford St & Generals Way,96,Arlington County Public Schools Education Center,1426 N Quincy St,,0.6131015965585934,school
-Washington-Liberty High School / N Stafford St & Generals Way,162,Washington-Liberty High School,1300 N Stafford St,,0.9959869503709906,school
-Washington-Liberty High School / N Stafford St & Generals Way,203,Arlington Public Schools,1426 N Quincy St,,0.8272656407887519,school
-Washington-Liberty High School / N Stafford St & Generals Way,207,Arlington County School Board,1426 N Quincy St,,0.7528654329185553,school
-Washington-Liberty High School / N Stafford St & Generals Way,408,The Clubhouse,4350 Washington Blvd,,0.5099748823512429,bar
-Washington-Liberty High School / N Stafford St & Generals Way,450,Arlington House,1713 N Taylor St,,0.9346941132315154,school
-Washington-Liberty High School / N Stafford St & Generals Way,156,Washington-Lee High School,1301 N Stafford St,,,school
-Washington-Liberty High School / N Stafford St & Generals Way,230,Arlington County Special Edu,1426 N Quincy St,,,school
-Powhatan St & Bashford Ln,432,Commonwealth Academy,1321 Leslie Ave,,0.9523987405944822,school
-Powhatan St & Bashford Ln,472,Alexandria City Public Schools,1340 Braddock Pl,,0.2725865841293559,school
-Powhatan St & Bashford Ln,472,Alexandria Specialized,1340 Braddock Pl,,0.29894871658039385,school
-Powhatan St & Bashford Ln,514,Jim’s Pork & Grain,650 Potomac Ave,,0.239451290844698,bar
-Powhatan St & Bashford Ln,472,Minnie Howard School,1340 Braddock Pl,,,school
-Vantage Hill Rd & Wainwright Dr,212,Lake Anne Elementary School,11598 N Shore Dr,,0.9941961772566282,school
-Vantage Hill Rd & Wainwright Dr,280,Reston Youth Club,1751 Wainwright Dr,,0.34355008064732473,bar
-Vantage Hill Rd & Wainwright Dr,214,Lake Anne Elementary School,11510 N Shore Dr,,,school
-Beech Dr at Draper Dr Park,469,The Revolution Darts & Billiards Fairfax,9687 Fairfax Blvd,7.3,0.97677793904209,bar
-Beech Dr at Draper Dr Park,460,Fast Eddie's Sports & Billiards,9687 Fairfax Blvd,6.1,0.9780680535397517,bar
-Beech Dr at Draper Dr Park,277,TZ Lounge,9738 Fairfax Blvd,,0.9042089985486212,bar
-Beech Dr at Draper Dr Park,377,Uptown Sushi Bar & Grill,9715 Fairfax Blvd,,0.23076923076923078,bar
-Beech Dr at Draper Dr Park,473,Revolution,9687 Fairfax Blvd,,0.502177068214804,bar
-Beech Dr at Draper Dr Park,477,Mosby Woods Elementary School,9819 Five Oaks Rd,,0.9869417685821116,school
-Beech Dr at Draper Dr Park,498,Fairfax County Public Schools,9819 Five Oaks Rd,,,school
+station,distance,name,location.address,rating,popularity,categories,latitude,longitude
+Fairfax Dr & Wilson Blvd,97,The Liberty Tavern,3195 Wilson Blvd,8.5,0.9821031665848801,bar,38.886352,-77.096879
+Fairfax Dr & Wilson Blvd,131,The Lot,3217 10th St N,8.0,0.9726062985307277,bar,38.88473,-77.097553
+Fairfax Dr & Wilson Blvd,240,Lyon Hall,3100 Washington Blvd,8.5,0.9823052276073089,bar,38.885507,-77.094938
+Fairfax Dr & Wilson Blvd,62,O'Sullivan's Irish Pub,3207 Washington Blvd,7.5,0.9808908004503074,bar,38.886174,-77.09724
+Fairfax Dr & Wilson Blvd,442,Screwtop Wine Bar,1025 N Fillmore St,8.5,0.9659671506509252,bar,38.885366,-77.092691
+Fairfax Dr & Wilson Blvd,200,Pamplona,3100 Clarendon Blvd,7.7,0.9540166844672805,bar,38.886275,-77.095397
+Fairfax Dr & Wilson Blvd,426,The Board Room,925 N Garfield St,8.1,0.971393932396155,bar,38.883859,-77.093208
+Fairfax Dr & Wilson Blvd,157,Don Tito,3165 Wilson Blvd,7.3,0.9885979851629478,bar,38.886695,-77.096409
+Fairfax Dr & Wilson Blvd,311,East West Coffee Wine,3101 Wilson Blvd,7.5,0.973212481598014,bar,38.887544,-77.09536
+Fairfax Dr & Wilson Blvd,460,Wilson Hardware Kitchen & Bar,2915 Wilson Blvd,7.3,0.9670929192044568,bar,38.888531,-77.093736
+South St & University Dr,219,High Side,4009 Chain Bridge Rd,8.3,0.9683921948072891,bar,38.845883,-77.306557
+South St & University Dr,331,The Wine House,3950 University Dr,8.4,0.9404934687953556,bar,38.847384,-77.305246
+South St & University Dr,312,The Auld Shebeen,3971 Chain Bridge Rd,7.7,0.9706498951781971,bar,38.846802,-77.306194
+South St & University Dr,292,21 Great American Bistro,10427 North St,7.6,0.7813255926463474,bar,38.846744,-77.305345
+South St & University Dr,307,Ornery Beer Company,3950 University Dr,7.3,0.9645218513143041,bar,38.847124,-77.305176
+South St & University Dr,175,Capital Ale House,4069 Chain Bridge Rd,,0.9575874858893727,bar,38.844252,-77.30739
+South St & University Dr,222,Firehouse,3988 University Dr,,0.7255281406224803,bar,38.846374,-77.305347
+South St & University Dr,233,Sager School,4000 Chain Bridge Rd,,0.04732737208932411,school,38.845626,-77.307371
+South St & University Dr,233,The Funktastical Fo' Thousand Karaoke Celebration,3988 University Dr,,0.1854539590388647,bar,38.84632,-77.305383
+South St & University Dr,233,The Most Crunk Karaoke Show in Town,3988 University Dr,,0.10095145944202548,bar,38.84632,-77.305383
+Fessenden St & Wisconsin Ave NW,319,Georgetown Day School,4200 Davenport St NW,,0.9948400330109689,school,38.951862,-77.08282
+Fessenden St & Wisconsin Ave NW,457,Satay Club Asian Restaurant and Sushi Bar,4654 Wisconsin Ave NW,,0.8112285368609132,bar,38.950852,-77.080986
+Fessenden St & Wisconsin Ave NW,467,Alley Cat,5247 Wisconsin Ave NW,,0.9430400538431338,bar,38.958761,-77.084296
+Fessenden St & Wisconsin Ave NW,219,St John's Community Service,5151 Wisconsin Ave NW,,,school,38.956708,-77.083155
+Fenton St & Gist Ave,268,Kaldi's Social House,918 Silver Spring Ave,9.0,0.9985295442849488,bar,38.991299,-77.025742
+Fenton St & Gist Ave,482,Quarry House Tavern,8401 Georgia Ave,9.1,0.9983661461504516,bar,38.993536,-77.026436
+Fenton St & Gist Ave,259,Golf Ultra Lounge,8123 Georgia Ave,7.5,0.9944363037200054,bar,38.991226,-77.026114
+Fenton St & Gist Ave,477,The Urban Winery,949 Bonifant St,7.7,0.9606511130069963,bar,38.993943,-77.02576
+Fenton St & Gist Ave,142,The Nora School,955 Sligo Ave,,0.7284382162533511,school,38.99048,-77.025236
+Fenton St & Gist Ave,194,Sheger Spring Cafe,900 Silver Spring Ave,,0.9866286114927333,bar,38.991432,-77.024278
+Fenton St & Gist Ave,221,Citizens and Culture,8113 Georgia Ave,,0.9965136886481186,school,38.990961,-77.026129
+Fenton St & Gist Ave,237,Hot Spot,8203 Fenton St,,0.6912184518312346,bar,38.99193,-77.023865
+Fenton St & Gist Ave,416,Mix Bar and Grille,8241 Georgia Ave,5.7,0.9814536742574552,bar,38.992804,-77.026276
+Fenton St & Gist Ave,304,Fire Station 1,8131 Georgia Ave,5.4,0.9779024422360311,bar,38.991483,-77.026267
+Barcroft Community Center,352,Educate The Girls,1529 S George Mason Dr,,,school,38.852086,-77.104387
+Pimmit Dr & Los Pueblos Ln,273,Tysons Pub,7511 Leesburg Pike,,0.6814676018574961,bar,38.90327,-77.204717
+New Hampshire Ave & Ward Pl NW,83,Mercy Me DC Restaurant,1143 New Hampshire Ave NW,8.9,0.9849607794434607,bar,38.904793,-77.047469
+New Hampshire Ave & Ward Pl NW,109,Washington Marriott Concierge Lounge,1221 22nd St NW,8.1,0.968495356830947,bar,38.906228,-77.048291
+New Hampshire Ave & Ward Pl NW,172,Casta's,1121 New Hampshire Ave NW,7.9,0.9656269279767962,bar,38.90424,-77.047918
+New Hampshire Ave & Ward Pl NW,447,Pisco y Nazca Ceviche Gastrobar,1823 L St NW,8.7,0.9831660083168412,bar,38.903993,-77.042751
+New Hampshire Ave & Ward Pl NW,181,Quadrant,1150 22nd St NW,7.8,0.9810908042016874,school,38.904592,-77.049218
+New Hampshire Ave & Ward Pl NW,355,Park Hyatt Lounge and Bar,1201 24th St NW,8.1,0.9674136867323146,bar,38.905862,-77.051119
+New Hampshire Ave & Ward Pl NW,152,Chef Geoff's West End,2201 M St NW,7.5,0.9883580247902762,bar,38.905547,-77.049148
+New Hampshire Ave & Ward Pl NW,162,The Lobby Lounge at Ritz-Carlton,1150 22nd St NW,7.5,0.9470702765069267,bar,38.904592,-77.049218
+New Hampshire Ave & Ward Pl NW,427,Emissary,2032 P St NW,8.2,0.9831419712035383,bar,38.909394,-77.046426
+New Hampshire Ave & Ward Pl NW,459,North Italia,2112 Pennsylvania Ave NW,8.1,0.9818519794562804,bar,38.90149,-77.047972
+Maple & Ritchie Ave,333,Piney Branch Elementary School,7510 Maple Ave,,0.9897959183673469,school,38.982237,-77.009448
+Maple & Ritchie Ave,307,Montgomery County Public Schools,7510 Maple Ave,,,school,38.982342,-77.009459
+N Howard St & N Imboden St,415,St Stephen's & St Agnes School,1000 Saint Stephens Rd,,0.9946638207043756,school,38.81806,-77.101097
+N Howard St & N Imboden St,506,Alexandria City Public Schools,4643 Taney Ave,,0.7091248665955177,school,38.817924,-77.111263
+N Howard St & N Imboden St,225,Communities In School Of S Bay,4345 Raleigh Ave,,,school,38.816484,-77.10577
+Market Square / King St & Royal St,111,Basin Street Lounge,219 King St,8.2,0.9671291355389541,bar,38.804663,-77.042046
+Market Square / King St & Royal St,103,Gadsby's Tavern,138 N Royal St,8.0,0.9805229455709712,bar,38.805681,-77.043707
+Market Square / King St & Royal St,82,Grape + Bean,118 S Royal St,7.9,0.2837246531483458,bar,38.803947,-77.043571
+Market Square / King St & Royal St,297,Mai Thai,6 King St,8.2,0.9812166488794023,bar,38.804033,-77.040047
+Market Square / King St & Royal St,291,Virtue Feed and Grain,106 S Union St,8.1,0.9929028815368196,bar,38.803768,-77.040062
+Market Square / King St & Royal St,287,Union Street Public House,121 S Union St,8.0,0.9889007470651013,bar,38.803472,-77.040662
+Market Square / King St & Royal St,356,Murphy S Grand Ir,713 King St,8.0,0.9855923159018143,bar,38.805266,-77.047449
+Market Square / King St & Royal St,234,Daniel O'Connell's,112 King St,7.6,0.9849519743863394,bar,38.804097,-77.040811
+Market Square / King St & Royal St,311,Vola’s Dockside Grill and Hi-Tide Lounge,101 N Union St,7.8,0.9964247598719317,bar,38.804407,-77.03996
+Market Square / King St & Royal St,222,Urbano,116 King St,7.5,0.9598185699039488,bar,38.804038,-77.040931
+Westpark & Jones Branch Dr,257,The Atrium Lounge,7920 Jones Branch Dr,6.1,0.9557066715677265,bar,38.926523,-77.216129
+Westpark & Jones Branch Dr,254,Hilton Hotel Bar,7920 Jones Branch Dr,,0.9876860871163389,bar,38.926523,-77.216129
+Westpark & Jones Branch Dr,255,Opus 88,7920 Jones Branch Dr,,0.3615144274949458,bar,38.926477,-77.215998
+Westpark & Jones Branch Dr,421,City Works,1640 Capital One Dr,,0.9450468663848557,bar,38.924238,-77.212555
+Westpark & Jones Branch Dr,268,Flamingo's Lounge,7920 Jones Branch Dr,,,bar,38.926477,-77.215998
+Wilson Blvd & N Illinois St ,470,Saint Ann Catholic School,980 N Frederick St,,0.9511300984325838,school,38.880607,-77.126441
+Temporary Rd & Old Reston Ave,261,The Capital Burger,11853 Market St,7.9,0.9952915685185649,bar,38.958522,-77.355673
+Temporary Rd & Old Reston Ave,472,Makers Union,1811 Library St,7.8,0.9927395181295177,bar,38.958263,-77.358345
+Temporary Rd & Old Reston Ave,350,Taste of Reston,11900 Market St,6.2,0.9389768145492882,bar,38.958906,-77.357276
+Temporary Rd & Old Reston Ave,380,Sixty Vines,11905 Market St,,0.992701320500698,bar,38.958465,-77.357291
+Temporary Rd & Old Reston Ave,298,Tara School,11730 Bowman Green Dr,,,school,38.96277,-77.353522
+Temporary Rd & Old Reston Ave,493,Fairfax Collegiate School,1766 Ivy Oak Sq,,,school,38.957542,-77.348729
+Georgia Ave & Emerson St NW,411,Bar Illusion,5213 Georgia Ave NW,,0.10545081605999664,bar,38.953353,-77.027249
+Georgia Ave & Emerson St NW,422,Luna Restaurant,5217 Georgia Ave NW,,0.9029942230804362,bar,38.953458,-77.02726
+Georgia Ave & Emerson St NW,467,John Lewis Elementary School,1335 Farragut St NW,,0.9936702268302259,school,38.951119,-77.032377
+Georgia Ave & Emerson St NW,464,West Education Campus,1338 Farragut St NW,,,school,38.951173,-77.03234
+Georgia Ave & Emerson St NW,474,District Of Columbia Pubc Sch,1338 Farragut St NW,,,school,38.951384,-77.032362
+Carlin Springs Rd & N Thomas St,402,Mussel Bar & Grille,800 N Glebe Rd,8.2,0.9596455272349392,bar,38.880198,-77.114688
+Carlin Springs Rd & N Thomas St,460,Grand Cru Wine Bar and Bistro,4401 Wilson Blvd,7.6,0.9399590104783073,bar,38.880358,-77.113694
+Carlin Springs Rd & N Thomas St,428,Punch Bowl Social,4238 Wilson Blvd,7.0,0.9852206795023526,bar,38.87966,-77.11101
+Carlin Springs Rd & N Thomas St,447,Hawkers Asian Street Food,4201 Wilson Blvd,6.9,0.9845856305747193,bar,38.880409,-77.110835
+Carlin Springs Rd & N Thomas St,323,The Sports Page,627 N Glebe Rd,,0.7788875097422279,bar,38.878542,-77.110219
+Carlin Springs Rd & N Thomas St,351,Superette,4238 Wilson Blvd,,0.933031203995035,bar,38.879514,-77.110784
+Carlin Springs Rd & N Thomas St,354,Local Oyster,4238 Wilson Blvd,,0.22584649135467483,bar,38.87956,-77.110915
+Carlin Springs Rd & N Thomas St,362,Whino,4238 Wilson Blvd,5.5,0.964264064890454,bar,38.87961,-77.110963
+Carlin Springs Rd & N Thomas St,403,K.W. Barrett,4401 N Henderson Rd,,0.9738475305256473,school,38.872837,-77.112151
+Carlin Springs Rd & N Thomas St,405,FPA Penalty Box,4201 Wilson Blvd,,0.8274110209854805,bar,38.880551,-77.111145
+Hilltop Rd & Willowmere Dr ,475,Cedar's Hookah,,8.0,0.9981953022832339,bar,38.873064,-77.244132
+Hilltop Rd & Willowmere Dr ,175,Elizabeth Blackwell School,2812 Old Lee Hwy,,0.8577210743865927,school,38.875342,-77.241175
+Hilltop Rd & Willowmere Dr ,165,Hillwood School,2812 Old Lee Hwy,,,school,38.875452,-77.241102
+Hilltop Rd & Willowmere Dr ,170,Fairfax County School District,2812 Old Lee Hwy,,,school,38.875397,-77.241138
+Adams Mill & Columbia Rd NW,25,Taqueria Al Lado,1792 Columbia Rd NW,8.3,0.9742001650548446,bar,38.922667,-77.042355
+Adams Mill & Columbia Rd NW,208,Lapis,1847 Columbia Rd NW,9.1,0.9785669073048787,bar,38.921365,-77.043949
+Adams Mill & Columbia Rd NW,203,La Pop,1847 Columbia Rd NW,8.4,0.9009831179340902,school,38.921365,-77.043949
+Adams Mill & Columbia Rd NW,97,Madam's Organ,2461 18th St NW,7.9,0.9665964248800147,bar,38.922046,-77.042123
+Adams Mill & Columbia Rd NW,378,The Green Zone,2226 18th St NW,9.2,0.9826852660507824,bar,38.919464,-77.041983
+Adams Mill & Columbia Rd NW,90,Bossa,2463 18th St NW,7.8,0.9438332785821308,school,38.922046,-77.042123
+Adams Mill & Columbia Rd NW,171,Elfegne,2420 18th St NW,7.8,0.9552428950299262,bar,38.921237,-77.042419
+Adams Mill & Columbia Rd NW,152,Club Timehri,2439 18th St NW,7.7,0.9255570601007956,bar,38.92147,-77.042021
+Adams Mill & Columbia Rd NW,261,Grand Duchess,2337 18th St NW,6.9,0.9781422516365268,bar,38.920542,-77.041588
+Adams Mill & Columbia Rd NW,227,Tiki On 18th,2411 18th St NW,6.8,0.9798248495677325,bar,38.920958,-77.041715
+W Columbia St & N Washington St,441,South Block Co,2121 N Westmoreland St,9.1,0.9694310538925612,bar,38.886101,-77.161857
+W Columbia St & N Washington St,450,Dmawef,200 Little Falls St,,,school,38.884954,-77.172057
+D St & Maryland Ave NE,145,Higher Achievement Program,317 8th St NE,,0.47094313620229633,school,38.894024,-76.994623
+D St & Maryland Ave NE,326,Carbery School,410 5th St NE,,0.06344195437755895,school,38.895434,-76.999823
+D St & Maryland Ave NE,372,School Within School,920 F St NE,,0.9330566394513128,school,38.897591,-76.993133
+D St & Maryland Ave NE,406,Stuart-Hobson Middle School,410 E St NE,,0.9892954722090909,school,38.896531,-77.000061
+D St & Maryland Ave NE,406,School Within School-Peabody,425 C St NE,,0.6442346983742899,school,38.892894,-76.999901
+D St & Maryland Ave NE,406,Peabody Elementary School,425 C St NE,,0.4824569134744045,school,38.892844,-76.999853
+D St & Maryland Ave NE,413,Ludlow-Taylor Elementary School,659 G St NE,,0.9833663175943657,school,38.898612,-76.996734
+D St & Maryland Ave NE,431,The Grotto,605 10th St NE,,0.24883219691203218,bar,38.897577,-76.992415
+D St & Maryland Ave NE,462,Love Joy Lofts,440 12th St NE,,0.02745038339195718,school,38.895296,-76.990624
+D St & Maryland Ave NE,548,Stuart Hobson MS Capitol Hill Cluster,410 E St NE,,0.13255666749461167,school,38.896371,-77.000087
+Grandview & Blueridge Ave,374,GISELE'S Creole Cuisine,2407 Price Ave,8.1,0.9604612850082372,bar,39.040375,-77.050687
+Grandview & Blueridge Ave,401,The Limerick Pub,11301 Elkin St,7.7,0.9625794304542246,bar,39.040508,-77.050193
+Grandview & Blueridge Ave,341,Unplugged Restaurant & Sports Bar,11305 Georgia Ave,7.5,0.909155095316545,bar,39.040563,-77.051129
+Grandview & Blueridge Ave,200,Laberinto Bar and Grill,2423 Hickerson Dr,,0.5857848905624853,bar,39.042573,-77.051167
+Grandview & Blueridge Ave,297,Barnabys Restaurant and Sports Pub,2417 University Blvd W,,0.5777830077665334,bar,39.041749,-77.050744
+Grandview & Blueridge Ave,308,Riverside Lounge,11272 Georgia Ave,,0.9220993174864675,bar,39.040321,-77.051696
+Grandview & Blueridge Ave,343,Caliente Restaurant & Bar,2442 Ennalls Ave,,0.055542480583666745,bar,39.040234,-77.05232
+Grandview & Blueridge Ave,385,Hakuna Matata Grill,2405 Price Ave,,0.899505766062603,bar,39.04038,-77.050603
+Grandview & Blueridge Ave,444,Pashion Lounge And Restaurant,2310 Price Ave,,0.9218639679924688,bar,39.039922,-77.05026
+Grandview & Blueridge Ave,445,Pearl Seafood Restaurant,11230 Grandview Ave,,0.4337491174393975,bar,39.039053,-77.052621
+Potomac Greens Dr & Slaters Ln,230,Jim’s Pork & Grain,650 Potomac Ave,,0.7529946236989913,bar,38.823058,-77.049239
+Potomac Greens Dr & Slaters Ln,341,18 Eads Lounge,1800 Richmond Hwy,,0.12588046958377802,bar,38.822994,-77.051378
+Potomac Greens Dr & Slaters Ln,401,Barkhaus,529 E Howell Ave,,0.9613660618996799,bar,38.824299,-77.050671
+Columbia Pike & S Orme St,50,Sheraton National Hotel Club 14,900 S Orme St,,0.7037785411194181,bar,38.866864,-77.072703
+Columbia Pike & S Orme St,254,IT Lounge,29 Carpenter Rd,,0.5635481915538493,bar,38.869339,-77.071864
+Olde Crafts Dr and Cartwright Pl,215,Reston Swamp,2257 Coppersmith Sq,,0.01224007061818502,bar,38.937226,-77.352581
+Columbia Pike & W&OD Trail ,157,"Grobani, Privett & Smith Associates",955 S Columbus St,,0.5363854169673528,school,38.855079,-77.110467
+Columbia Pike & W&OD Trail ,336,Barcroft School & Civic League,800 S Buchanan St,,,school,38.859631,-77.110268
+Maine Ave & Water St SW,154,Moonraker,655 Water St SW,8.1,0.9929170639467337,bar,38.877571,-77.02247
+Maine Ave & Water St SW,328,Boardwalk Bar & Arcade,715 Wharf St SW,7.5,0.9928689897201278,bar,38.878544,-77.024002
+Maine Ave & Water St SW,490,12 Stories,75 District Sq SW,7.7,0.9762753691699985,bar,38.879582,-77.02533
+Maine Ave & Water St SW,353,Pearl Street Warehouse,33 Pearl St SW,7.3,0.9684472826043411,bar,38.878923,-77.02383
+Maine Ave & Water St SW,357,Kirwan's On The Wharf,749 Wharf St SW,7.0,0.9940628330141739,bar,38.87854,-77.024086
+Maine Ave & Water St SW,293,Whiskey Charlie,975 7th St SW,6.6,0.9527350228753195,bar,38.878576,-77.023416
+Maine Ave & Water St SW,116,Pendry Washington DC,655 Water St SW,,0.9710673279543616,bar,38.877064,-77.022081
+Maine Ave & Water St SW,244,Appletree Early Learning Public Charter School,680 I St SW,,0.19460446930060013,school,38.878813,-77.021966
+Maine Ave & Water St SW,256,7th Street Park at the Wharf,999 7th St SW,,0.9478234393904188,bar,38.877749,-77.023078
+Maine Ave & Water St SW,308,Canopy Central Cafe and Bar,975 7th St SW,,0.890286602514282,bar,38.878576,-77.023416
+University Dr & Democracy Ln,263,The Wine House,3950 University Dr,8.4,0.9404934687953556,bar,38.847384,-77.305246
+University Dr & Democracy Ln,423,High Side,4009 Chain Bridge Rd,8.3,0.9683921948072891,bar,38.845883,-77.306557
+University Dr & Democracy Ln,309,The Auld Shebeen,3971 Chain Bridge Rd,7.7,0.9706498951781971,bar,38.846802,-77.306194
+University Dr & Democracy Ln,291,21 Great American Bistro,10427 North St,7.6,0.7813255926463474,bar,38.846744,-77.305345
+University Dr & Democracy Ln,278,Ornery Beer Company,3950 University Dr,7.3,0.9645218513143041,bar,38.847124,-77.305176
+University Dr & Democracy Ln,135,Chubby Squirrel Brewing Company,10382 Willard Way,7.0,0.9638767940654733,bar,38.848707,-77.303327
+University Dr & Democracy Ln,238,Tandoori Nights Fairfax,10312 Willard Way,,0.8874375100790195,bar,38.848308,-77.301978
+University Dr & Democracy Ln,305,Ruffino S Spaghetti House,10427 North St,,0.8693759071117562,bar,38.846744,-77.305345
+University Dr & Democracy Ln,349,The Funktastical Fo' Thousand Karaoke Celebration,3988 University Dr,,0.1854539590388647,bar,38.84632,-77.305383
+University Dr & Democracy Ln,349,The Most Crunk Karaoke Show in Town,3988 University Dr,,0.10095145944202548,bar,38.84632,-77.305383
+Metro Park Dr & Walker Ln ,411,Chili's Grill & Bar,6250 Inter Parcel Rd,7.1,0.9984186997639346,bar,38.7649,-77.155279
+Metro Park Dr & Walker Ln ,213,Calvary Road Christian School,6811 Beulah St,,0.9525621658759316,school,38.768741,-77.15354
+Wilson Blvd & N Oak St,262,Salt,1201 Wilson Blvd,7.9,0.955431111624282,bar,38.895469,-77.071199
+Wilson Blvd & N Oak St,310,Barley Mac,1600 Wilson Blvd,7.8,0.972288774066911,bar,38.89403,-77.077244
+Wilson Blvd & N Oak St,325,Continental Beer Garden,1901 Fort Myer Dr,7.0,0.9525445255895852,bar,38.897383,-77.071945
+Wilson Blvd & N Oak St,415,Quinn's On The Corner,1776 Wilson Blvd,6.5,0.970556822446093,bar,38.893861,-77.078406
+Wilson Blvd & N Oak St,92,Key Bridge Terrace,1325 Wilson Blvd,,0.891983950581647,bar,38.895118,-77.072806
+Wilson Blvd & N Oak St,184,The Boardroom,1505E N Colonial Ter,,0.49256704096065584,bar,38.89652,-77.075184
+Wilson Blvd & N Oak St,426,Amuse Bar,,5.9,0.9798227636174697,bar,38.897338,-77.069876
+Wilson Blvd & N Oak St,346,Petitbon's American Grill & Sports Bar,1911 Fort Myer Dr,,0.8824004849464538,bar,38.897799,-77.072072
+Wilson Blvd & N Oak St,368,East West Coffee,1901 N Moore St,,0.41737147475680514,bar,38.897635,-77.071213
+Wilson Blvd & N Oak St,368,The Yard,1121 19th St N,,0.9297693617758277,bar,38.897288,-77.069828
+Park Rd & Holmead Pl NW,307,El Chucho Cocina Superior,3313 11th St NW,8.8,0.9712355877474821,bar,38.931069,-77.027788
+Park Rd & Holmead Pl NW,300,Queens English,3410 11th St NW,8.1,0.9404039837509114,bar,38.932138,-77.02853
+Park Rd & Holmead Pl NW,333,The Wonderland Ballroom,1101 Kenyon St NW,7.4,0.9799049732787424,bar,38.929844,-77.027957
+Park Rd & Holmead Pl NW,312,RedRocks Columbia Heights,1036 Park Rd NW,7.2,0.9485525651606079,bar,38.931695,-77.027936
+Park Rd & Holmead Pl NW,180,Zeba,3423 14th St NW,6.7,0.9593933032602338,school,38.93224,-77.032504
+Park Rd & Holmead Pl NW,409,Tequila & Mezcal,3475 14th St NW,6.3,0.9814673856434335,bar,38.934415,-77.032348
+Park Rd & Holmead Pl NW,106,Park Road Pours,1319 Park Rd NW,,0.10904837068433662,bar,38.931298,-77.030383
+Park Rd & Holmead Pl NW,256,Tubman Elementary School,3101 13th St NW,,0.9159422147796197,school,38.929195,-77.029198
+Park Rd & Holmead Pl NW,262,Champions at Harriet Tubman Elementary,3101 13th St NW,,0.09185382230163372,school,38.929296,-77.029292
+Park Rd & Holmead Pl NW,290,Pitcher And Crow,3400 11th St NW,,0.6129624139671653,bar,38.932083,-77.028567
+MLK & Marion Barry Ave SE,114,Allah's University of Islam,1110 U St SE,,0.2729574462970827,school,38.867211,-76.989408
+MLK & Marion Barry Ave SE,121,AYT Institute,1110 U St SE,,0.6703790652767874,school,38.867106,-76.989397
+MLK & Marion Barry Ave SE,302,Cedar Hill Bar and Grill,2200 Martin Luther King Jr Ave SE,,0.8981066767088385,bar,38.864768,-76.989664
+MLK & Marion Barry Ave SE,389,Ketcham Elementary School,1919 15th St SE,,0.9673255506502039,school,38.866029,-76.983898
+MLK & Marion Barry Ave SE,417,The Music Box,2235 Shannon Pl SE,,0.967285488794699,bar,38.864568,-76.991412
+MLK & Marion Barry Ave SE,38,Rocketship Dc,1227 Good Hope Rd SE,,,school,38.867087,-76.987795
+MLK & Marion Barry Ave SE,130,Howard Road Academy,2005 Martin Luther King Jr Ave SE,,,school,38.866691,-76.989271
+Offutt Ln & Chevy Chase Dr,459,Villain & Saint,7141 Wisconsin Ave,7.4,0.9276408394767853,bar,38.980805,-77.0922
+Offutt Ln & Chevy Chase Dr,450,World of Beer,7200 Wisconsin Ave,6.7,0.994392317798968,bar,38.981394,-77.093992
+Offutt Ln & Chevy Chase Dr,374,Maki Bar,6831 Wisconsin Ave,,0.7353157018722499,bar,38.978358,-77.09051
+Offutt Ln & Chevy Chase Dr,409,Oneness Family School,6701 Wisconsin Ave,,0.9693277885403747,school,38.977636,-77.090182
+Offutt Ln & Chevy Chase Dr,414,WeddingWire Sky Lounge,7101 Wisconsin Ave,,0.5191401739251766,bar,38.980247,-77.091762
+Reston Station Blvd & Sunset Hills Rd,429,Academy of Christian Education,1808 Michael Faraday Ct,,0.21357275987863863,school,38.950291,-77.333
+Reston Station Blvd & Sunset Hills Rd,292,Owego Apalachin Central Sch,11091 Sunset Hills Rd,,,school,38.945988,-77.327763
+Glade Dr & Pinecrest Rd/Cathy Hudgins Cmty Ctr,402,Dogwood Elementary School,12300 Glade Dr,,0.9965297275723694,school,38.94261530677932,-77.37092754744226
+Langston Blvd & N Cleveland St,68,Cloud Lounge,2525 Langston Blvd,7.8,0.993707242444361,bar,38.895126,-77.091004
+Langston Blvd & N Cleveland St,63,Jesseoke,N Cleveland St,,0.48061657477701125,school,38.895124,-77.091051
+Langston Blvd & N Cleveland St,404,Bar Bryson,1902 N Vance St,,0.09675836388303553,bar,38.89607,-77.087273
+Connecticut Ave & McKinley St NW,84,Macon Bistro & Larder,5520 Connecticut Ave NW,7.6,0.9351318435664666,bar,38.963691,-77.075356
+Connecticut Ave & McKinley St NW,376,Blessed Sacrament School,5841 Chevy Chase Pkwy NW,,0.3165287203442115,school,38.96793,-77.075205
+Rockville Metro West,295,World of Beer,196 E Montgomery Ave,7.8,0.9795056642636457,bar,39.084208,-77.15052
+Rockville Metro West,461,Finnegan's Wake,100 Gibbs St,7.7,0.9874356333676622,bar,39.085388,-77.152168
+Rockville Metro West,208,Junior Achievement,51 Monroe St,,0.792378990731205,school,39.083961,-77.149225
+Rockville Metro West,347,St Mary's Catholic School Rockville,400 Veirs Mill Road,,0.8684860968074151,school,39.081863,-77.144055
+Rockville Metro West,360,Pour Vino N' Hops,42 Maryland Ave,,0.9487126673532441,bar,39.084725,-77.150744
+Rockville Metro West,420,Ambrosia Express Ta,100 Maryland Ave,,0.43820803295571575,bar,39.082133,-77.150682
+Rockville Metro West,448,Thai Chef - Rockville,29 Maryland Ave,,0.9711637487126673,bar,39.086342,-77.15121
+Rockville Metro West,504,Bar Louie,150 Gibbs St,5.6,0.8581874356333676,bar,39.086365,-77.152019
+Rockville Metro West,474,Plaza Oaxaca,141 Gibbs St,,0.9519052523171988,bar,39.086309,-77.151799
+Rockville Metro West,243,Kabuto Japanese Shushi Bar,1 Choice Hotels Cir,,,bar,39.085661,-77.14915
+Fairfax Dr & N Taylor St,19,Uncle Julio's,4301 Fairfax Dr,8.1,0.9907340588286234,bar,38.88271,-77.113182
+Fairfax Dr & N Taylor St,269,Bronson Bier Hall,4100 Fairfax Dr,8.2,0.9864330456369252,school,38.881954,-77.109648
+Fairfax Dr & N Taylor St,304,Mussel Bar & Grille,800 N Glebe Rd,8.2,0.9596455272349392,bar,38.880198,-77.114688
+Fairfax Dr & N Taylor St,178,Grand Cru Wine Bar and Bistro,4401 Wilson Blvd,7.6,0.9399590104783073,bar,38.880358,-77.113694
+Fairfax Dr & N Taylor St,268,Crafthouse,901 N Glebe Rd,7.4,0.9700372369598476,bar,38.881535,-77.115334
+Fairfax Dr & N Taylor St,126,First Down Sports Bar & Grill,4213 Fairfax Dr,6.8,0.9808619345899604,bar,38.882492,-77.11139
+Fairfax Dr & N Taylor St,386,Punch Bowl Social,4238 Wilson Blvd,7.0,0.9852206795023526,bar,38.87966,-77.11101
+Fairfax Dr & N Taylor St,306,Hawkers Asian Street Food,4201 Wilson Blvd,6.9,0.9845856305747193,bar,38.880409,-77.110835
+Fairfax Dr & N Taylor St,170,Hilton Arlington Executive Lounge,950 N Stafford St,,0.8907138527263805,school,38.881674,-77.110883
+Fairfax Dr & N Taylor St,182,Lounge At Dan & Brad's,950 N Stafford St,,0.5551193603325347,bar,38.881784,-77.11081
+Arlington Blvd & S George Mason Dr,237,St Thomas More Cathedral School,105 N Thomas St,,0.9907051929682764,school,38.8711,-77.104347
+Arlington Blvd & S George Mason Dr,476,Cleopatra Lounge,237 N Glebe Rd,,0.598533614294374,bar,38.873684,-77.104406
+Arlington Blvd & S George Mason Dr,477,Ricky's Pub & Grill,237 N Glebe Rd,,0.01760817481165026,bar,38.873735,-77.104453
+Arlington Blvd & S George Mason Dr,300,Office of Catholic Schools,200 N Glebe Rd,,,school,38.872082,-77.103776
+Veterans Pl & Pershing Dr ,475,Quarry House Tavern,8401 Georgia Ave,9.1,0.9983661461504516,bar,38.993536,-77.026436
+Veterans Pl & Pershing Dr ,436,The Urban Winery,949 Bonifant St,7.7,0.9606511130069963,bar,38.993943,-77.02576
+Veterans Pl & Pershing Dr ,242,Matchbox,919 Ellsworth Dr,7.0,0.9964267367694302,bar,38.996226,-77.026585
+Veterans Pl & Pershing Dr ,215,McGinty's Public House,911 Ellsworth Dr,6.7,0.9990408774296229,bar,38.996359,-77.026092
+Veterans Pl & Pershing Dr ,238,Dave & Buster's,8661 Colesville Rd,6.2,0.9985095530025758,bar,38.997063,-77.026756
+Veterans Pl & Pershing Dr ,96,Locavino,8519 Fenton St,,0.9951988793458281,bar,38.996807,-77.02466
+Veterans Pl & Pershing Dr ,177,Chelsea School,711 Pershing Dr,,0.9688452438622811,school,38.998869,-77.022719
+Veterans Pl & Pershing Dr ,243,Savor,8727 Colesville Rd,,0.32185625482602054,bar,38.998253,-77.026287
+Veterans Pl & Pershing Dr ,246,Twisted Willow,8727 Colesville Rd,,0.519276084046411,bar,38.998367,-77.02613
+Veterans Pl & Pershing Dr ,331,Dog Haus,933 Ellsworth Dr,,0.9974468021521431,bar,38.995677,-77.026951
+Hartland Rd & Harte Pl,343,Open Road Grill & Icehouse,8100 Lee Hwy,8.2,0.995394406326996,bar,38.875733,-77.22382
+Congress Heights Metro,137,Malcolm X Elementary School,1351 Alabama Ave SE,,0.9567812702813143,school,38.844892,-76.986211
+Congress Heights Metro,494,Achievement Preparatory Academy,1500 Mississippi Ave SE,,0.31649667085980754,school,38.841763,-76.983536
+Congress Heights Metro,496,Turner Elementary School,1500 Mississippi Ave SE,,0.28231589574302723,school,38.841763,-76.983536
+Founders Row/W Broad St & West St,28,Dominion Wine and Beer,107 Rowell Ct,9.1,0.9821810406272273,bar,38.889858,-77.183656
+Founders Row/W Broad St & West St,413,Spacebar,709 W Broad St,7.9,0.9583036350677121,bar,38.887422,-77.179944
+Founders Row/W Broad St & West St,178,Saint James School Convent,101 N Spring St,,0.24091233071988596,school,38.889375,-77.181878
+Founders Row/W Broad St & West St,239,Saint James Catholic School,830 W Broad St,,0.9493941553813258,school,38.889267,-77.180982
+Founders Row/W Broad St & West St,318,Falls Church City School Board Superintendent Office,800 W Broad St,,0.11261582323592302,school,38.888409,-77.180259
+Founders Row/W Broad St & West St,334,Falls Church City Public Schools,800 W Broad St,,0.41161796151104774,school,38.888354,-77.180295
+Founders Row/W Broad St & West St,319,Northwood High School,800 W Broad St,,,school,38.888354,-77.180295
+W&OD Trail/Sunset Hills Rd & Old Reston Ave,314,The Dominion Lounge,11710 Plaza America Dr,,0.8479591833091967,school,38.952393,-77.350909
+W&OD Trail/Sunset Hills Rd & Old Reston Ave,446,KidWX,11654 Plaza America Dr,,0.25464138163832334,school,38.951461,-77.348697
+W&OD Trail/Sunset Hills Rd & Old Reston Ave,372,Fairfax Collegiate School,1766 Ivy Oak Sq,,,school,38.957542,-77.348729
+W&OD Trail/Sunset Hills Rd & Old Reston Ave,476,Fox Mill Woods Swim & Tennis,11654 Plaza America Dr,,,bar,38.951461,-77.348697
+George Mason Dr & Wilson Blvd,144,Arlington Traditional School,855 N Edison St,,0.9075715151690096,school,38.879852,-77.121939
+George Mason Dr & Wilson Blvd,489,Iot Hack School,900 N Glebe Rd,,0.3151574632681927,school,38.880777,-77.115676
+George Mason Dr & Wilson Blvd,497,CarPool,900 N Glebe Rd,,0.9831712034177179,bar,38.880722,-77.115712
+George Mason Dr & Wilson Blvd,429,Holiday Inn,4610 Fairfax Dr,,,bar,38.88174,-77.117377
+George Mason Dr & Wilson Blvd,434,Full Circle Montessori School,801 N Wakefield St,,,school,38.879973,-77.115887
+S Arlington Mill Dr & Campbell Ave,227,Copperwood Tavern,4021 Campbell Ave,8.5,0.9826227520711255,bar,38.841121,-77.087715
+S Arlington Mill Dr & Campbell Ave,193,Cheesetique,4056 Campbell Ave,8.3,0.8996911352942875,bar,38.840605,-77.088461
+S Arlington Mill Dr & Campbell Ave,136,Big Buns Damn Good Burger Co.,4251 Campbell Ave,7.4,0.979447507432959,bar,38.84123,-77.089578
+S Arlington Mill Dr & Campbell Ave,140,Dudley’s Sports Bar,,6.6,0.9809196663106544,bar,38.841349,-77.08837
+S Arlington Mill Dr & Campbell Ave,141,Dudley's Sport and Ale,2766 S Arlington Mill Dr,,0.8976993909303467,bar,38.841349,-77.08837
+S Arlington Mill Dr & Campbell Ave,149,Snouts & Stouts,2709 S Oakland St,,0.9922350835666657,bar,38.84365814714041,-77.08975553512573
+S Arlington Mill Dr & Campbell Ave,269,Astro Beer Hall,4001 Campbell Ave,,0.9941113644892186,bar,38.840957,-77.086982
+Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,375,Black's Bar & Kitchen,7750 Woodmont Ave,8.7,0.9916968095596272,bar,38.987884,-77.096229
+Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,453,Hawkers Asian Street Food,7117 Bethesda Ln,8.2,0.9931145586666875,bar,38.981444,-77.097922
+Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,468,Villain & Saint,7141 Wisconsin Ave,7.4,0.9276408394767853,bar,38.980805,-77.0922
+Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,285,Q by Peter Chang,4500 E West Hwy,7.0,0.9920118507505936,bar,38.98451,-77.091192
+Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,409,World of Beer,7200 Wisconsin Ave,6.7,0.994392317798968,bar,38.981394,-77.093992
+Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,268,The Barking Dog,4723 Elm St,6.4,0.9960083987865087,bar,38.982327,-77.095313
+Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,143,Piazza Beer Garden,7401 Woodmont Ave,,0.9595786725043931,bar,38.983781,-77.095802
+Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,157,Corella Café & Lounge,4646 Montgomery Ave,,0.995462310389444,bar,38.983599,-77.093334
+Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,281,Our Lady Of Lourdes School,7500 Pearl St,,0.7199190740649983,school,38.985758,-77.091575
+Bethesda Metro / Wisconsin Ave & Old Georgetown Rd,309,The Salt Line,7284 Woodmont Ave,,0.9974932104862232,bar,38.982259,-77.096289
+Gatehouse Rd & Telestar Ct,104,Fairfax County Public Schools,8115 Gatehouse Rd,,0.9842867755576178,school,38.86848,-77.224099
+Gatehouse Rd & Telestar Ct,260,Luther Jackson Middle School,3020 Gallows Rd,,0.9910033109541467,school,38.868314,-77.228966
+Gatehouse Rd & Telestar Ct,386,Musicbox,2980 Gallows Rd,,0.9960259166576697,bar,38.869825,-77.229338
+Gatehouse Rd & Telestar Ct,395,TD Karaoke,2980 Gallows Rd,,0.22052847668927228,bar,38.869665,-77.229363
+Gatehouse Rd & Telestar Ct,98,FCPS Grab and Go Meals,8115 Gatehouse Rd,,,school,38.868425,-77.224135
+Gatehouse Rd & Telestar Ct,98,"Fairfax County, Schools & School Board, Superintendent's Office",8115 Gatehouse Rd,,,school,38.868425,-77.224135
+Gatehouse Rd & Telestar Ct,98,Fairfax County Special Education,8115 Gatehouse Rd,,,school,38.868425,-77.224135
+Gatehouse Rd & Telestar Ct,100,TJ Admissions,8115 Gatehouse Rd,,,school,38.86848,-77.224099
+Gatehouse Rd & Telestar Ct,408,Fairfax County Public Schools,3020 Gallows Rd,,,school,38.868153,-77.22996
+Roosevelt Center & Crescent Rd,136,Greenbelt Branch Branch Library,6301 Breezewood Dr,,,school,39.000822,-76.879447
+Wisconsin Ave & Rodman St NW,97,Sidwell Friends School,3825 Wisconsin Ave NW,7.4,0.9910261443669025,school,38.939337,-77.074014
+Wisconsin Ave & Rodman St NW,229,Top Test Prep,3615 Wisconsin Ave NW,,0.8385106604597499,school,38.937975,-77.073788
+Wisconsin Ave & Rodman St NW,322,Hearst Elementary School,3950 37th St NW,,0.9380082847917184,school,38.940727,-77.071796
+Wisconsin Ave & Rodman St NW,372,Donald S Goldman Liquors,4115 Wisconsin Ave NW,,0.36263190365924985,bar,38.943008,-77.076503
+Wisconsin Ave & Rodman St NW,482,Yale Club DC,4200 Wisconsin Ave NW,,,bar,38.943574,-77.077742
+Wilson Blvd & N Quincy St,263,Bronson Bier Hall,4100 Fairfax Dr,8.2,0.9864330456369252,school,38.881954,-77.109648
+Wilson Blvd & N Quincy St,182,Punch Bowl Social,4238 Wilson Blvd,7.0,0.9852206795023526,bar,38.87966,-77.11101
+Wilson Blvd & N Quincy St,235,Hawkers Asian Street Food,4201 Wilson Blvd,6.9,0.9845856305747193,bar,38.880409,-77.110835
+Wilson Blvd & N Quincy St,405,First Down Sports Bar & Grill,4213 Fairfax Dr,6.8,0.9808619345899604,bar,38.882492,-77.11139
+Wilson Blvd & N Quincy St,116,Robby's Health Juice Bar,3910 Wilson Blvd,,0.5064515197875473,bar,38.87942,-77.106731
+Wilson Blvd & N Quincy St,253,The Sports Page,627 N Glebe Rd,,0.7788875097422279,bar,38.878542,-77.110219
+Wilson Blvd & N Quincy St,262,Local Oyster,4238 Wilson Blvd,,0.22584649135467483,bar,38.87956,-77.110915
+Wilson Blvd & N Quincy St,265,Superette,4238 Wilson Blvd,,0.933031203995035,bar,38.879514,-77.110784
+Wilson Blvd & N Quincy St,284,Whino,4238 Wilson Blvd,5.5,0.964264064890454,bar,38.87961,-77.110963
+Wilson Blvd & N Quincy St,299,DC Bocce,4201 Wilson Blvd,,0.07444505383482955,bar,38.880231,-77.111196
+Minnesota Ave Metro/DOES,91,Friendship Collegiate Academy Carter G.Woodson Campus,4095 Minnesota Ave NE,,0.9959136907385002,school,38.897618,-76.946411
+Minnesota Ave Metro/DOES,109,Friendship Collegiate School,4095 Minnesota Ave NE,,,school,38.897517,-76.946317
+Minnesota Ave Metro/DOES,191,Village Learning Center Public Charter School,4017 Minnesota Ave NE,,,school,38.895505,-76.948389
+Minnesota Ave Metro/DOES,407,Kuero DC,3701 Benning Rd NE,,,bar,38.894827,-76.951185
+Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,67,Karin's Cafe,2 Wisconsin Cir,,0.9816224526988154,bar,38.961764,-77.085452
+Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,117,Joy by Seven Reasons,5471 Wisconsin Ave,,0.9838298574596068,bar,38.96293,-77.086374
+Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,123,Joy by Seven Reasons,5471 Wisconsin Ave,,0.8399943912213383,bar,38.962935,-77.086291
+Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,124,The Hunter's Hound,5471 Wisconsin Ave,,0.987140199628254,bar,38.96293,-77.086374
+Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,175,Willie's Bar,4300 Military Rd NW,,0.8943568870335799,bar,38.96042,-77.08489
+Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,341,Trattoria 5520,5520 Wisconsin Ave,,0.6953184496536128,bar,38.964329,-77.08787
+Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,364,Alley Cat,5247 Wisconsin Ave NW,,0.9430400538431338,bar,38.958761,-77.084296
+Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,195,PMP Certification Washington DC,5335 Wisconsin Ave NW,,,school,38.960205,-77.084952
+Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,202,Banneker Ventures,5335 Wisconsin Ave NW,,,school,38.960155,-77.084905
+Friendship Hts Metro / Wisconsin Ave & Wisconsin Cir,467,Your Creative Camera,5406 Shoemaker Farm Ln,,,school,38.962769,-77.091252
+Mount Vernon Ave & E Del Ray Ave,39,St Elmo's Coffee Pub,2300 Mount Vernon Ave,8.0,0.9628601921024547,bar,38.82628,-77.058869
+Mount Vernon Ave & E Del Ray Ave,195,Front Porch,2006 Mount Vernon Ave,8.3,0.9231590181430096,bar,38.824186,-77.058569
+Mount Vernon Ave & E Del Ray Ave,269,Kaizen Tavern,1909 Mount Vernon Ave,7.0,0.9453041622198506,bar,38.823428,-77.057944
+Mount Vernon Ave & E Del Ray Ave,217,ChurchKey Beer Shop,2000 Mount Vernon Ave,,0.3512273212379936,bar,38.824085,-77.058474
+Mount Vernon Ave & E Del Ray Ave,281,Mount Vernon Elementary School,2601 Commonwealth Ave,,0.9328175026680896,school,38.828179,-77.059865
+Mount Vernon Ave & E Del Ray Ave,439,"Kevin D. Dohmen, M.Ed",21 W Caton Ave,,0.5688900747065101,school,38.827577,-77.063168
+American University East Campus,409,Chef Geoff's,3201 New Mexico Ave NW,8.0,0.9813472000769188,bar,38.933037,-77.084831
+American University East Campus,248,Mann Elementary School,4430 Newark St NW,,0.9448188002275514,school,38.934193,-77.08786
+American University East Campus,422,Lindamood-Bell Learning Process,3201 New Mexico Ave NW,,0.3582811861514178,school,38.933037,-77.084831
+American University East Campus,445,Saep Sa,4505 Lowell St NW,,,bar,38.932593,-77.089086
+Eastern Market Metro,215,Beuchert's Saloon,623 Pennsylvania Ave SE,8.2,0.9690882722924195,bar,38.884881,-76.997651
+Eastern Market Metro,243,Barrel,613 Pennsylvania Ave SE,8.0,0.980065220700762,bar,38.884973,-76.997913
+Eastern Market Metro,234,Betsy,514 8th St SE,7.7,0.9555954393583693,bar,38.882189,-76.994681
+Eastern Market Metro,287,Mr. Henry's,601 Pennsylvania Ave SE,7.8,0.9772128165888131,bar,38.88522,-76.998233
+Eastern Market Metro,460,Sushi Hachi,735 8th St SE,7.6,0.9516453404055862,bar,38.880038,-76.995388
+Eastern Market Metro,273,Tunnicliff's Tavern,222 7th St SE,7.1,0.9843518392397862,bar,38.886616,-76.995848
+Eastern Market Metro,368,Lola's Barracks Bar & Grill,711 8th St SE,6.6,0.9668528207552461,bar,38.880842,-76.995176
+Eastern Market Metro,401,Valor Brewpub,723 TH St SE,6.4,0.9753699712355878,bar,38.880628,-76.995238
+Eastern Market Metro,71,Hine Junior High School,335 8th St SE,,0.11911190878716739,school,38.885273,-76.99529
+Eastern Market Metro,135,The Wells,727 C St SE,,0.9226726065044428,bar,38.885835,-76.995642
+Washington & Independence Ave SW/HHS,437,Platte County School District,400 Maryland Ave SW,,0.6309341623466632,school,38.886485,-77.018792
+George Mason Blvd & Armstrong St,355,Capital Ale House,4069 Chain Bridge Rd,,0.9575874858893727,bar,38.844252,-77.30739
+George Mason Blvd & Armstrong St,438,Fairfax School Cluster 6,10515 School St,,,school,38.837234,-77.308229
+Wilson Blvd & N Troy St,364,Ragtime,1345 N Courthouse Rd,8.1,0.9844124354126375,bar,38.889461,-77.083511
+Wilson Blvd & N Troy St,454,Barley Mac,1600 Wilson Blvd,7.8,0.972288774066911,bar,38.89403,-77.077244
+Wilson Blvd & N Troy St,196,Ireland's Four Courts,2051 Wilson Blvd,7.0,0.9453857922235372,bar,38.891905,-77.084228
+Wilson Blvd & N Troy St,350,Quinn's On The Corner,1776 Wilson Blvd,6.5,0.970556822446093,bar,38.893861,-77.078406
+Wilson Blvd & N Troy St,469,Courthaus Social,2300 Clarendon Blvd,6.4,0.9810639956123892,bar,38.890027,-77.086687
+Wilson Blvd & N Troy St,286,American Foundation For Pharmaceutical Education,2107 Wilson Blvd,,0.30548740005195857,school,38.893001,-77.085437
+Wilson Blvd & N Troy St,398,The Interior Illusions Lounge,2100 Langston Blvd,,0.6916837456340387,bar,38.895842,-77.08371
+Wilson Blvd & N Troy St,457,Adam's Corner,2319 Wilson Blvd,,0.08832953266172099,bar,38.891064,-77.087048
+Wilson Blvd & N Troy St,485,Francis Scott Key Elementary School,2300 Key Blvd,,0.9711630055133793,school,38.892347,-77.08676
+Wilson Blvd & N Troy St,336,Guerra Steakhouse,1725 Wilson Blvd,,,bar,38.894258,-77.078868
+John McCormack Rd & Michigan Ave NE,332,Busboys and Poets,625 Monroe St NE,8.1,0.9897842268462506,bar,38.932075,-76.997449
+John McCormack Rd & Michigan Ave NE,228,Brookland Pint,716 Monroe St NE,7.5,0.991611047457274,bar,38.932827,-76.995248
+John McCormack Rd & Michigan Ave NE,417,Smith Public Trust,3514 12th St NE,7.7,0.6339948881072376,bar,38.93299,-76.991259
+John McCormack Rd & Michigan Ave NE,247,Murphy's Grill,620 Michigan Ave NE,,0.5032890783369522,bar,38.932902,-76.997786
+John McCormack Rd & Michigan Ave NE,381,Bcafe,3740 12th St NE,5.8,0.7770637864863349,bar,38.935837,-76.991381
+John McCormack Rd & Michigan Ave NE,398,The Library Bar & Grill,3548 12th St NE,,0.5963928305303389,bar,38.93304,-76.991307
+John McCormack Rd & Michigan Ave NE,411,Luke C Moore High School,1001 Monroe St NE,,0.930596841523312,school,38.932195,-76.992275
+John McCormack Rd & Michigan Ave NE,426,The Runaway,3523 12th St NE,,0.9251884910301506,bar,38.933232,-76.990694
+John McCormack Rd & Michigan Ave NE,478,Elsie Whitlow Stokes Community Freedom Public Charter School,3700 Oakview Ter NE,,0.9133942807695081,school,38.934959,-76.990026
+John McCormack Rd & Michigan Ave NE,479,St Anthony's Catholic School,3400 12th St NE,,0.6806349002860417,school,38.93187,-76.99144
+New Hampshire & Gallatin St NW,279,Washington Latin School,5200 2nd St NW,,0.957294062031777,school,38.95397,-77.013898
+New Hampshire & Gallatin St NW,455,Mamie D Lee School Dental Clinic,100 Gallatin St NE,,0.9450110971339749,school,38.952892,-77.007418
+New Hampshire & Gallatin St NW,99,H&H Transportation,5025 1st St NW,,,school,38.95123,-77.011762
+New Hampshire & Gallatin St NW,487,District of Columbia Public School,100 Gallatin St NE,,,school,38.952892,-77.007418
+New Hampshire & Gallatin St NW,487,Briya Public Charter School,100 Gallatin St NE,,,school,38.952892,-77.007418
+Columbia Rd & Georgia Ave NW,161,Doubles,3118 Georgia Ave NW,8.9,0.973278742378232,bar,38.929545,-77.02371
+Columbia Rd & Georgia Ave NW,172,Sonny's Pizza,3120 Georgia Ave NW,8.8,0.9803616784314982,bar,38.92965,-77.023721
+Columbia Rd & Georgia Ave NW,159,No Kisses Bar,3120 Georgia Ave NW,8.2,0.9323675755366285,bar,38.92965,-77.023721
+Columbia Rd & Georgia Ave NW,419,The Midlands,3333 Georgia Ave NW,8.8,0.9955451216678551,bar,38.931844,-77.023229
+Columbia Rd & Georgia Ave NW,485,El Chucho Cocina Superior,3313 11th St NW,8.8,0.9712355877474821,bar,38.931069,-77.027788
+Columbia Rd & Georgia Ave NW,277,St Vincent Wine,3212 Georgia Ave NW,7.6,0.9693126186832469,bar,38.930441,-77.02376
+Columbia Rd & Georgia Ave NW,461,Hook Hall,3400 Georgia Ave NW,7.9,0.9900646598347849,bar,38.932269,-77.024158
+Columbia Rd & Georgia Ave NW,400,The Wonderland Ballroom,1101 Kenyon St NW,7.4,0.9799049732787424,bar,38.929844,-77.027957
+Columbia Rd & Georgia Ave NW,367,Peace Lounge,2632 Georgia Ave NW,7.1,0.9135064539649218,bar,38.924938,-77.022901
+Columbia Rd & Georgia Ave NW,280,Chuck & Billy's Bar & Carryout,2718 Georgia Ave NW,7.0,0.9231773858838046,bar,38.925674,-77.022976
+Langston Blvd & N Woodstock St,100,Cafe Colline,4536 Cherry Hill Rd,7.9,0.9751176283809139,bar,38.898284,-77.119148
+Langston Blvd & N Woodstock St,430,Thirsty Bernie,2163 N Glebe Rd,,0.7862483041307046,bar,38.897255,-77.122496
+Langston Blvd & N Woodstock St,499,Vermont St Bar & Grill,2343 N Vermont St,,0.7478567098692377,bar,38.902734,-77.11797
+Langston Blvd & N Woodstock St,99,Cafe Colline,4536 Langston Blvd,,,bar,38.898389,-77.119159
+Washington-Liberty High School / N Stafford St & Generals Way,96,Arlington County Public Schools Education Center,1426 N Quincy St,,0.3224605259359755,school,38.888595,-77.108951
+Washington-Liberty High School / N Stafford St & Generals Way,162,Washington-Liberty High School,1300 N Stafford St,,0.9960165112721184,school,38.887393,-77.109668
+Washington-Liberty High School / N Stafford St & Generals Way,203,Arlington Public Schools,1426 N Quincy St,,0.28427099269693734,school,38.888449,-77.108725
+Washington-Liberty High School / N Stafford St & Generals Way,207,Arlington County School Board,1426 N Quincy St,,0.7073001760817481,school,38.888504,-77.108689
+Washington-Liberty High School / N Stafford St & Generals Way,408,The Clubhouse,4350 Washington Blvd,,0.09912536443148688,bar,38.885313,-77.113875
+Washington-Liberty High School / N Stafford St & Generals Way,450,Arlington House,1713 N Taylor St,,0.9344744970123835,school,38.892138,-77.112733
+Washington-Liberty High School / N Stafford St & Generals Way,156,Washington-Lee High School,1301 N Stafford St,,,school,38.887393,-77.109668
+Washington-Liberty High School / N Stafford St & Generals Way,230,Arlington County Special Edu,1426 N Quincy St,,,school,38.888728,-77.108459
+Powhatan St & Bashford Ln,432,Commonwealth Academy,1321 Leslie Ave,,0.9508537886872999,school,38.818855,-77.052761
+Powhatan St & Bashford Ln,472,Alexandria City Public Schools,1340 Braddock Pl,,0.8349519743863394,school,38.815848,-77.051778
+Powhatan St & Bashford Ln,472,Alexandria Specialized,1340 Braddock Pl,,0.4109391675560299,school,38.815902,-77.051741
+Powhatan St & Bashford Ln,514,Jim’s Pork & Grain,650 Potomac Ave,,0.7529946236989913,bar,38.823058,-77.049239
+Powhatan St & Bashford Ln,472,Minnie Howard School,1340 Braddock Pl,,,school,38.815848,-77.051778
+Vantage Hill Rd & Wainwright Dr,212,Lake Anne Elementary School,11598 N Shore Dr,,0.9943280091074571,school,38.965329,-77.346669
+Vantage Hill Rd & Wainwright Dr,280,Reston Youth Club,1751 Wainwright Dr,,0.7410822943688791,bar,38.965683,-77.351604
+Vantage Hill Rd & Wainwright Dr,214,Lake Anne Elementary School,11510 N Shore Dr,,,school,38.965324,-77.346753
+Beech Dr at Draper Dr Park,469,The Revolution Darts & Billiards Fairfax,9687 Fairfax Blvd,7.3,0.9769392033542977,bar,38.863292,-77.278881
+Beech Dr at Draper Dr Park,460,Fast Eddie's Sports & Billiards,9687 Fairfax Blvd,6.1,0.9787131107885825,bar,38.863292,-77.278881
+Beech Dr at Draper Dr Park,277,TZ Lounge,9738 Fairfax Blvd,,0.9046927914852443,bar,38.864333,-77.281015
+Beech Dr at Draper Dr Park,377,Uptown Sushi Bar & Grill,9715 Fairfax Blvd,,0.757781003064022,bar,38.86377,-77.279775
+Beech Dr at Draper Dr Park,473,Revolution,9687 Fairfax Blvd,,0.5879696823093049,bar,38.863301,-77.278714
+Beech Dr at Draper Dr Park,477,Mosby Woods Elementary School,9819 Five Oaks Rd,,0.9867878532764309,school,38.869859,-77.286076
+Beech Dr at Draper Dr Park,498,Fairfax County Public Schools,9819 Five Oaks Rd,,,school,38.869913,-77.28604
